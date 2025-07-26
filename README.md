@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-a07" alt="vivek-a07" /></a> </p>
 
-- 🌱 I’m currently learning **React, Tailwind CSS, SQL **
+- 🌱 I’m currently learning **React, Tailwind CSS, SQL**
 
 - 👯 I’m looking to collaborate on **Web Development & Robotics Projects**
 
