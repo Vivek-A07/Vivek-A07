@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-a07&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-a07" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Backend Development & API Integrations**
 
-- 💬 Ask me about **React, JavaScript, Python**
+- 💬 **React, JavaScript, Python**
 
-- 📫 How to reach me **vivekacharya299@gmail.com**
+- 📫 gmail- **vivekacharya299@gmail.com**
 
 - ⚡ Fun fact **I love cloning websites to understand their functionality and design! 🎬💻**
 
