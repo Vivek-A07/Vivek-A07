@@ -8,7 +8,7 @@
   />
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ===================== TITLE ===================== -->
 
 <h1 align="center">
   ⚡ Embedded Systems & Firmware
@@ -19,6 +19,10 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Embedded+C+%7C+STM32+%7C+Firmware;Microcontroller+Programming;GPIO+%7C+PWM+%7C+ADC+%7C+Timers;Building+Real-World+Embedded+Projects"
     alt="Typing animation"
   />
+</p>
+
+<p align="center">
+  <b>Programming • Embedded Development • Microcontrollers • Robotics</b>
 </p>
 
 ---
@@ -46,59 +50,66 @@
 
 ---
 
-<!-- ===================== FEATURED REPOSITORIES ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔌 Microcontroller Projects</h3>
-      <p>
-        STM32 projects covering GPIO, timers, PWM, ADC,
-        sensor interfacing, and embedded control logic.
-      </p>
-      <a href="https://github.com/Vivek-A07/Microcontroller-Projects">
-        <img src="https://img.shields.io/badge/Explore-STM32%20Projects-00BFFF?style=for-the-badge" />
-      </a>
-    </td>
+<h3 align="center">🔌 Microcontroller Projects</h3>
 
-    <td width="50%" align="center">
-      <h3>💻 C Programming Projects</h3>
-      <p>
-        Projects demonstrating data structures, file handling,
-        pointers, bit manipulation, and problem-solving.
-      </p>
-      <a href="https://github.com/Vivek-A07/C-Programming-Projects">
-        <img src="https://img.shields.io/badge/Explore-C%20Projects-9370DB?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
+<p align="center">
+  STM32 projects covering GPIO, timers, PWM, ADC, sensor interfacing,
+  and embedded control logic.
+</p>
 
-  <tr>
-    <td colspan="2" align="center">
-      <h3>🤖 AI Campus Waste Management System</h3>
-      <p>
-        AI-based waste detection and autonomous robotic collection
-        system using YOLOv8, Flutter, Arduino Mega, and IoT.
-      </p>
-      <a href="https://github.com/Vivek-A07/AI-Campus-Waste-Management-System">
-        <img src="https://img.shields.io/badge/Explore-AI%20Robotics%20Project-00C896?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Vivek-A07/Microcontroller-Projects">
+    <img src="https://img.shields.io/badge/Explore-STM32%20Projects-00BFFF?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-<!-- ===================== PROJECT DOMAINS ===================== -->
+<h3 align="center">💻 C Programming Projects</h3>
 
-<h2 align="center">🎯 Project Domains</h2>
+<p align="center">
+  Projects demonstrating data structures, file handling, pointers,
+  bit manipulation, and problem-solving.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vivek-A07/C-Programming-Projects">
+    <img src="https://img.shields.io/badge/Explore-C%20Projects-9370DB?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🤖 AI Campus Waste Management System</h3>
+
+<p align="center">
+  AI-based waste detection and autonomous robotic collection system
+  using YOLOv8, Flutter, Arduino Mega, and IoT.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vivek-A07/AI-Campus-Waste-Management-System">
+    <img src="https://img.shields.io/badge/Explore-AI%20Robotics%20Project-00C896?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<!-- ===================== TECHNICAL AREAS ===================== -->
+
+<h2 align="center">🎯 Technical Areas</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded%20Systems-00E5FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microcontroller%20Programming-0080FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%20Programming-7B68EE?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Sensor%20Interfacing-00C896?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Robotics%20%26%20Automation-FF9800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Vision-AI-FF4081?style=for-the-badge" />
@@ -106,9 +117,9 @@
 
 ---
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
@@ -120,6 +131,12 @@
     height="165"
   />
 </p>
+
+---
+
+<!-- ===================== STREAK STATS ===================== -->
+
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
   <img
@@ -141,6 +158,8 @@
 </p>
 
 ---
+
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
   <img
