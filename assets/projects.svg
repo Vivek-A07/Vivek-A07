@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210">
+  <rect width="800" height="210" rx="14" fill="#1a1a1e"/>
+
+  <!-- Accent -->
+  <rect x="48" y="40" width="4" height="125" rx="2" fill="#ba2626"/>
+
+  <!-- Heading -->
+  <text x="72" y="78"
+        fill="#f7f7fb"
+        font-family="Inter, system-ui, sans-serif"
+        font-size="38"
+        font-weight="700">
+    Projects.
+  </text>
+
+  <rect x="72" y="92" width="90" height="3" rx="1.5" fill="#ba2626"/>
+
+  <text x="72" y="119"
+        fill="#9d9daa"
+        font-family="ui-monospace, monospace"
+        font-size="12"
+        letter-spacing="1">
+    EMBEDDED SYSTEMS · FIRMWARE · C PROGRAMMING
+  </text>
+
+  <!-- Decorative circuit -->
+  <g stroke="#ba2626" stroke-width="1" fill="none" opacity="0.35">
+    <path d="M600 45 H660 V65 H710"/>
+    <path d="M625 115 H680 V95 H735"/>
+    <path d="M680 45 V30 H750"/>
+  </g>
+
+  <g fill="#ba2626" opacity="0.6">
+    <circle cx="660" cy="45" r="3"/>
+    <circle cx="710" cy="65" r="3"/>
+    <circle cx="680" cy="115" r="3"/>
+    <circle cx="735" cy="95" r="3"/>
+    <circle cx="750" cy="30" r="3"/>
+  </g>
+
+  <!-- Repository labels -->
+  <text x="72" y="160"
+        fill="#666672"
+        font-family="ui-monospace, monospace"
+        font-size="10"
+        letter-spacing="1">
+    EXPLORE MY WORK ↓
+  </text>
+
+  <text x="752" y="185"
+        text-anchor="end"
+        fill="#666672"
+        font-family="ui-monospace, monospace"
+        font-size="9">
+    PROJECT ARCHIVE
+  </text>
+</svg>
