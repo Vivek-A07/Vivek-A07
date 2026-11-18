@@ -1,3 +1,19 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vivek-A07/Vivek-A07/main/assets/header.svg" width="100%" alt="Embedded Systems Profile Header">
+  <img src="assets/header.svg" width="100%" alt="Profile Header">
+</p>
+
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="About Me">
+</p>
+
+<p align="center">
+  <img src="assets/skills.svg" width="100%" alt="Technical Skills">
+</p>
+
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="GitHub Statistics">
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Profile Footer">
 </p>
