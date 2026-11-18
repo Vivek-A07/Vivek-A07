@@ -1,25 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210">
-  <rect width="800" height="210" rx="14" fill="#1a1a1e"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="590" viewBox="0 0 800 590">
+  <rect width="800" height="590" rx="14" fill="#1a1a1e"/>
 
-  <!-- Accent -->
-  <rect x="48" y="40" width="4" height="125" rx="2" fill="#ba2626"/>
+  <!-- Main accent -->
+  <rect x="48" y="40" width="4" height="510" rx="2" fill="#ba2626"/>
 
   <!-- Heading -->
-  <text x="72" y="78"
-        fill="#f7f7fb"
+  <text x="72" y="78" fill="#f7f7fb"
         font-family="Inter, system-ui, sans-serif"
-        font-size="38"
-        font-weight="700">
+        font-size="38" font-weight="700">
     Projects.
   </text>
 
   <rect x="72" y="92" width="90" height="3" rx="1.5" fill="#ba2626"/>
 
-  <text x="72" y="119"
-        fill="#9d9daa"
+  <text x="72" y="119" fill="#9d9daa"
         font-family="ui-monospace, monospace"
-        font-size="12"
-        letter-spacing="1">
+        font-size="12" letter-spacing="1">
     EMBEDDED SYSTEMS · FIRMWARE · C PROGRAMMING
   </text>
 
@@ -38,20 +34,87 @@
     <circle cx="750" cy="30" r="3"/>
   </g>
 
-  <!-- Repository labels -->
-  <text x="72" y="160"
-        fill="#666672"
-        font-family="ui-monospace, monospace"
-        font-size="10"
-        letter-spacing="1">
-    EXPLORE MY WORK ↓
+  <!-- STM32 PROJECTS -->
+  <a href="https://github.com/Vivek-A07/Microcontroller-Projects">
+    <text x="72" y="170" fill="#f7f7fb"
+          font-family="Inter, system-ui, sans-serif"
+          font-size="18" font-weight="700">
+      STM32 Microcontroller Projects ↗
+    </text>
+  </a>
+
+  <text x="72" y="194" fill="#9d9daa"
+        font-family="ui-monospace, monospace" font-size="12">
+    EMBEDDED C · STM32 · HAL · STM32CUBEIDE
   </text>
 
-  <text x="752" y="185"
-        text-anchor="end"
+  <text x="90" y="222" fill="#c5c5ce" font-family="Inter, sans-serif" font-size="13">
+    • Binary Counter Display
+  </text>
+  <text x="90" y="246" fill="#c5c5ce" font-family="Inter, sans-serif" font-size="13">
+    • Multi-Mode LED Controller
+  </text>
+  <text x="90" y="270" fill="#c5c5ce" font-family="Inter, sans-serif" font-size="13">
+    • PWM LED Brightness Control
+  </text>
+  <text x="90" y="294" fill="#c5c5ce" font-family="Inter, sans-serif" font-size="13">
+    • Temperature Monitoring System
+  </text>
+  <text x="90" y="318" fill="#c5c5ce" font-family="Inter, sans-serif" font-size="13">
+    • User Inactivity Detector
+  </text>
+
+  <!-- Divider -->
+  <line x1="72" y1="342" x2="730" y2="342"
+        stroke="#34343a" stroke-width="1"/>
+
+  <!-- C PROGRAMMING PROJECTS -->
+  <a href="https://github.com/Vivek-A07/C-Programming-Projects">
+    <text x="72" y="374" fill="#f7f7fb"
+          font-family="Inter, system-ui, sans-serif"
+          font-size="18" font-weight="700">
+      C Programming Projects ↗
+    </text>
+  </a>
+
+  <text x="72" y="398" fill="#9d9daa"
+        font-family="ui-monospace, monospace" font-size="12">
+    C · DATA STRUCTURES · FILE HANDLING · POINTERS
+  </text>
+
+  <text x="90" y="426" fill="#c5c5ce" font-family="Inter, sans-serif" font-size="13">
+    • LSB Image Steganography — encode and decode text in BMP images
+  </text>
+  <text x="90" y="450" fill="#c5c5ce" font-family="Inter, sans-serif" font-size="13">
+    • Tic-Tac-Toe — two-player console game
+  </text>
+  <text x="90" y="474" fill="#c5c5ce" font-family="Inter, sans-serif" font-size="13">
+    • Address Book Management — add, search, edit, delete and store contacts
+  </text>
+
+  <!-- Divider -->
+  <line x1="72" y1="495" x2="730" y2="495"
+        stroke="#34343a" stroke-width="1"/>
+
+  <!-- AI PROJECT -->
+  <a href="https://github.com/Vivek-A07/AI-Campus-Waste-Management-System">
+    <text x="72" y="527" fill="#f7f7fb"
+          font-family="Inter, system-ui, sans-serif"
+          font-size="18" font-weight="700">
+      AI-Based Campus Waste Management ↗
+    </text>
+  </a>
+
+  <text x="72" y="550" fill="#9d9daa"
+        font-family="ui-monospace, monospace" font-size="12">
+    AI · SMART CAMPUS · IEEE PUBLISHED PROJECT
+  </text>
+
+  <!-- Footer label -->
+  <text x="752" y="575" text-anchor="end"
         fill="#666672"
         font-family="ui-monospace, monospace"
-        font-size="9">
+        font-size="9" letter-spacing="1">
     PROJECT ARCHIVE
   </text>
 </svg>
