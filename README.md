@@ -1,15 +1,16 @@
+<p align="right"><b>Karnataka, India</b></p>
+
+<hr>
+
 # Vivek
-
-\<p align="right">\<b>Karnataka, India\</b>\</p>
-
----
 
 *Embedded Software Engineer*
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=750&height=30&lines=STM32+Firmware+Development;Embedded+C+Programming;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects](https://readme-typing-svg.demolab.com?font=Courier+New\&weight=400\&size=18\&pause=1200\&color=9CA3AF\&center=true\&vCenter=true\&width=750\&height=30\&lines=STM32+Firmware+Development;Embedded+C+Programming;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects)" alt="Animated Introduction"> \</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=750&height=30&lines=STM32+Firmware+Development;Embedded+C+Programming;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects" alt="Animated Introduction">
+</p>
 
----
-
+<hr>
 
 
 
