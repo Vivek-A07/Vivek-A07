@@ -20,8 +20,10 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=999999&color=FF6B00&vCenter=true&width=380&height=35&lines=02.+%2F%2F+Technical+Skills" alt="Technical Skills" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=999999&color=FF6B00&vCenter=true&width=380&height=35&lines=02.+%2F%2F+Technical+Skills" alt="Technical Skills" /> -->
+
 > $\textsf{\textbf{Languages}}$ & $\textsf{\textbf{Core}}$  
-> $\textsf{C Programming}$ • $\textsf{Embedded C}$ • $\textsf{Pointers}$ & $\textsf{Memory Management}$ • $\textsf{Bitwise Operations}$ • $\textsf{Data Structures}$
+> `C Programming` • `Embedded C` • `Pointers & Memory Management` • `Bitwise Operations` • `Data Structures`
 
 <br/>
 
@@ -36,7 +38,7 @@
 <br/>
 
 > $\textsf{\textbf{IDEs, Simulators}}$ & $\textsf{\textbf{Tooling}}$  
-> `STM32CubeIDE` • `PicSimLab` • `GCC` • `VS Code` • `Git & GitHub`<br/>
+> `STM32CubeIDE` • `PicSimLab` • `GCC` • `VS Code` • `Git & GitHub`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=999999&color=38BDF8&vCenter=true&width=400&height=35&lines=03.+%2F%2F+Featured+Projects" alt="Featured Projects" />
 
