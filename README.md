@@ -50,48 +50,54 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 </div>
 
 
+<div align="left">
+
 ## Featured Projects
 
-Projects focused on microcontroller programming, peripheral interfacing, and embedded firmware development.
+> ### **1. STM32 Microcontroller Firmware Suite**
+> **Repository:** [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; **Stack:** `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
+>
+> <details>
+> <summary><b>View Firmware Modules & Peripherals</b></summary>
+> <br/>
+>
+> - **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System):** 12-bit ADC analog sensor sampling with UART serial telemetry and threshold alerts.
+> - **[PWM-LED-Brightness-Control](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/PWM-LED-Brightness-Control):** Hardware Timer PWM duty-cycle modulation driven by real-time potentiometer ADC readings.
+> - **[Multi-Mode-LED-Controller](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Multi-Mode-LED-Controller):** Non-blocking push-button state machine using `HAL_GetTick()` software debouncing.
+> - **[Binary-Counter-Display](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Binary-Counter-Display):** Port-level GPIO bit manipulation driving multi-LED binary state transitions.
+>
+> </details>
 
-### 01. Binary Counter Display
+<br/>
 
-A 4-bit binary counter using STM32 GPIO, push-button input, software debouncing, and bitwise operations.
+> ### **2. AI-Powered Autonomous Campus Waste Management System**
+> **Repository:** [`Vivek-A07/AI-Campus-Waste-Management-System`](https://github.com/Vivek-A07/AI-Campus-Waste-Management-System) &nbsp;|&nbsp; **Stack:** `Arduino Mega` • `YOLOv8` • `Flutter` • `IoT`
+>
+> <details>
+> <summary><b>View System Architecture</b></summary>
+> <br/>
+>
+> - Combines real-time **YOLOv8** computer-vision waste classification with **Arduino Mega** motor/actuator control for autonomous robotic collection[cite: 6].
+> - Integrates **IoT** telemetry and a **Flutter** mobile interface for live bin status and remote fleet monitoring[cite: 6].
+>
+> </details>
 
-**Technologies:** STM32F103C8T6 · Embedded C · GPIO · BSRR
+<br/>
 
-[View Project →](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Binary-Counter-Display)
+> ### **3. Systems & Core C Programming Portfolio**
+> **Repository:** [`Vivek-A07/C-Programming-Projects`](https://github.com/Vivek-A07/C-Programming-Projects) &nbsp;|&nbsp; **Stack:** `ANSI C` • `Bitwise Operations` • `File I/O` • `Pointers` • `GCC`
+>
+> <details>
+> <summary><b>View C Applications</b></summary>
+> <br/>
+>
+> - **[LSB-Image-Steganography](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/LSB-Image-Steganography):** Encodes and decodes hidden payloads inside `.bmp` pixel buffers using bitwise masking and binary file I/O.
+> - **[Address-Book-Management](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/Address-Book-Management):** CLI contact database featuring dynamic record parsing, search indexing, and 10-digit phone validation.
+> - **[Tic-Tac-Toe](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/Tic-Tac-Toe):** Modular 2D-array state engine with win-condition evaluation and input sanitization.
+>
+> </details>
 
----
-
-### 02. Multi-Mode LED Controller
-
-A four-mode LED controller implementing constant OFF, constant ON, slow blinking, and fast blinking using non-blocking timer logic.
-
-**Technologies:** STM32 · Embedded C · GPIO · HAL_GetTick()
-
-[View Project →](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Multi-Mode-LED-Controller)
-
----
-
-### 03. PWM-Based LED Brightness Controller
-
-A push-button-controlled LED brightness system that adjusts PWM duty cycle in 20% increments using TIM2 Channel 1.
-
-**Technologies:** STM32 · Embedded C · TIM2 · PWM · GPIO
-
-[View Project →](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/PWM-LED-Brightness-Control)
-
----
-
-### 04. Temperature Monitoring System
-
-An LM35-based temperature monitoring system using ADC, UART communication, LED status indication, and buzzer alerts.
-
-**Technologies:** STM32 · Embedded C · ADC · UART · LM35 · GPIO
-
-[View Project →](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System)
-
+</div>
 ---
 
 ## GitHub
