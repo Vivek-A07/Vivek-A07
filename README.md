@@ -31,15 +31,30 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 </p>
 
 
+<div align="center">
+
 ## Technical Skills
 
-| Domain | Stack & Peripherals |
-| :--- | :--- |
-| **Core & Architecture** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-1E90FF?style=flat-square) ![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white) ![HAL / CMSIS](https://img.shields.io/badge/HAL_%2F_CMSIS-03234B?style=flat-square) |
-| **Platforms** | ![STM32](https://img.shields.io/badge/STM32_Microcontroller-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) |
-| **Peripherals & Protocols** | ![GPIO](https://img.shields.io/badge/GPIO-FF6B00?style=flat-square) ![ADC](https://img.shields.io/badge/ADC-FF6B00?style=flat-square) ![PWM](https://img.shields.io/badge/PWM-FF6B00?style=flat-square) ![Timers](https://img.shields.io/badge/Timers-FF6B00?style=flat-square) ![UART](https://img.shields.io/badge/UART-FF6B00?style=flat-square) |
-| **Development & Debug** | ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![PicSimLab](https://img.shields.io/badge/PicSimLab-333333?style=flat-square) ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,vscode,git,github,linux&perline=7" />
+</a>
 
+<br/>
+
+<img src="https://img.shields.io/badge/STM32_(ARM_Cortex--M3)-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32CubeIDE-00599C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/HAL_%26_CMSIS-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PicSimLab-2B3137?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/GPIO-FF6B00?style=flat-square" />
+<img src="https://img.shields.io/badge/12--Bit_ADC-FF6B00?style=flat-square" />
+<img src="https://img.shields.io/badge/Timers_%26_PWM-FF6B00?style=flat-square" />
+<img src="https://img.shields.io/badge/UART-FF6B00?style=flat-square" />
+<img src="https://img.shields.io/badge/GCC_Compiler-A42E2B?style=flat-square" />
+
+</div>
 
 ## Featured Projects
 
