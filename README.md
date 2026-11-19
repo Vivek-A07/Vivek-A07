@@ -1,11 +1,12 @@
-# Vivek
-**Embedded Software Engineer** &nbsp;•&nbsp; 📍 **Karnataka, India**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:FF6B00&height=3" width="100%" />
-
 <div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&height=35&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+%26+Hardware+Debugging" alt="Typing SVG" />
+
+# Vivek
+**Embedded Software Engineer** &nbsp;|&nbsp; Karnataka, India
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=FF6B00&center=true&vCenter=true&width=580&height=35&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+%26+Debugging" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00599C,50:1E90FF,100:FF6B00&height=14&animation=twinkling" width="85%" />
+
 </div>
 
 
