@@ -1,5 +1,9 @@
-# Vivek
-<p align="right"><b>📍 Karnataka, India</b></p>
+<table width="100%">
+  <tr>
+    <td align="left"><b>📍 Karnataka, India</b></td>
+    <td align="right"><h1>Vivek</h1></td>
+  </tr>
+</table>
 
 *Embedded Software Engineer*
 
