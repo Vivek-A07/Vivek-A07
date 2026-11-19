@@ -17,21 +17,23 @@
 
 ## Technical Skills
 
-<details open>
-<summary><b>Languages & Core</b> — <code>C Programming</code> • <code>Embedded C</code></summary>
-</details>
+> **Languages & Core**  
+> `C Programming` • `Embedded C` • `Pointers & Memory Management` • `Bitwise Operations` • `Data Structures`
 
-<details open>
-<summary><b>Microcontrollers</b> — <code>STM32 Blue Pill</code> • <code>Arduino</code></summary>
-</details>
+<br/>
 
-<details open>
-<summary><b>Peripherals & Buses</b> — <code>GPIO</code> • <code>ADC</code> • <code>PWM</code> • <code>Timers</code> • <code>UART</code></summary>
-</details>
+> **Microcontrollers & Architecture**  
+> `STM32F103 (Blue Pill)` • `ARM Cortex-M3` • `Arduino` • `HAL & CMSIS`
 
-<details open>
-<summary><b>IDEs & Simulation</b> — <code>STM32CubeIDE</code> • <code>PicSimLab</code> • <code>Git</code></summary>
-</details>
+<br/>
+
+> **Peripherals & Communication**  
+> `GPIO` • `12-Bit ADC` • `Timers` • `PWM` • `UART`
+
+<br/>
+
+> **IDEs, Simulators & Tooling**  
+> `STM32CubeIDE` • `PicSimLab` • `GCC` • `VS Code` • `Git & GitHub`
 
 
 ## Featured Projects
