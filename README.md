@@ -35,12 +35,14 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 <div align="left">
 
+<div align="left">
+
 ## Technical Skills
 
-- **Languages & Core:** ![C](https://img.shields.io/badge/C_Programming-00599C?style=flat-square&logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-1E90FF?style=flat-square)
-- **Microcontrollers:** ![STM32](https://img.shields.io/badge/STM32_Blue_Pill-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-- **Peripherals & Buses:** ![GPIO](https://img.shields.io/badge/GPIO-FF6B00?style=flat-square) ![ADC](https://img.shields.io/badge/ADC-FF6B00?style=flat-square) ![PWM](https://img.shields.io/badge/PWM-FF6B00?style=flat-square) ![Timers](https://img.shields.io/badge/Timers-FF6B00?style=flat-square) ![UART](https://img.shields.io/badge/UART-FF6B00?style=flat-square)
-- **IDEs & Simulation:** ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![PicSimLab](https://img.shields.io/badge/PicSimLab-333333?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ### **Languages & Core:** &nbsp; ![C](https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-1E90FF?style=for-the-badge)
+- ### **Microcontrollers:** &nbsp; ![STM32](https://img.shields.io/badge/STM32_Blue_Pill-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+- ### **Peripherals & Buses:** &nbsp; ![GPIO](https://img.shields.io/badge/GPIO-FF6B00?style=for-the-badge) ![ADC](https://img.shields.io/badge/ADC-FF6B00?style=for-the-badge) ![PWM](https://img.shields.io/badge/PWM-FF6B00?style=for-the-badge) ![Timers](https://img.shields.io/badge/Timers-FF6B00?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-FF6B00?style=for-the-badge)
+- ### **IDEs & Simulation:** &nbsp; ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![PicSimLab](https://img.shields.io/badge/PicSimLab-333333?style=for-the-badge) ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 ---
