@@ -84,11 +84,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=999999&color=FF6B00&vCenter=true&width=480&height=35&lines=04.+%2F%2F+Certifications+%26+Awards" alt="Certifications & Awards" />
 
 > [!TIP]
-> **Emertxe Certified Embedded Professional** — *Emertxe Information Technologies*  
-> 🏆 **Honors:** Student Spot Award (2x)
->
-> <br/>
->
+> - **Emertxe Certified Embedded Professional** — *Emertxe Information Technologies* (`Student Spot Award (2x)`)
 > - **Industrial Applications of IoT** — *Mechatronics Dept. & ISTE MITE*
 > - **Smart IoT Automation** — *Mechatronics Dept. & IEEE*
 > - **Fundamentals of Robotics & Industrial Automation** — *L&T EduTech (Coursera)*
