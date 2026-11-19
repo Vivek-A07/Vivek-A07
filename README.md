@@ -8,22 +8,13 @@
 
 ## About Me
 
-> [!NOTE]
-> I am a Mechatronics Engineering graduate with a strong interest in Embedded Systems and Firmware Development. I am currently undergoing Embedded Systems training at Emertxe, strengthening my foundation in C programming and Data Structures.
->
-> In parallel, I am actively developing my skills in embedded systems by studying microcontroller concepts and implementing them through hands-on firmware projects.
->
-> I am seeking opportunities in Embedded Systems or Firmware Development where I can apply my knowledge and contribute to real-world products.
+I am a **Mechatronics Engineering graduate** with a strong interest in **Embedded Systems** and **Firmware Development**. I am currently undergoing Embedded Systems training at **Emertxe**, strengthening my foundation in **C programming** and **Data Structures**.
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Embedded_Systems-00599C?style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Focus-Firmware_Development-1E90FF?style=for-the-badge" height="30" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Platform-STM32-FF6B00?style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Platform-C_Programming-FF6B00?style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Platform-STM32CubeIDE-FF6B00?style=for-the-badge" height="30" />
-</p>
+In parallel, I am actively developing my skills in embedded systems by studying **microcontroller concepts** and implementing them through **hands-on firmware projects**.
 
+I am seeking opportunities in **Embedded Systems** or **Firmware Development** where I can apply my knowledge and contribute to **real-world products**.
+
+**Focus:** `Embedded Systems` • `Firmware Development` &nbsp;&nbsp;|&nbsp;&nbsp; **Platform:** `STM32` • `C Programming` • `STM32CubeIDE`
 ## Technical Skills
 
 - ### **Languages & Core:** &nbsp; <img src="https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/Embedded_C-1E90FF?style=for-the-badge" height="35" />
