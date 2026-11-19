@@ -1,13 +1,9 @@
-<div align="center">
-
 # Vivek
-**Embedded Software Engineer** &nbsp;|&nbsp; Karnataka, India
+**Embedded Software Engineer** — *Karnataka, India*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=FF6B00&center=true&vCenter=true&width=580&height=35&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+%26+Debugging" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00599C,50:1E90FF,100:FF6B00&height=14&animation=twinkling" width="85%" />
-
-</div>
+> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=38BDF8&vCenter=true&width=540&height=28&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+Programming" alt="Role Focus" />
+>
+> **Jump to:** &nbsp; [`[ Technical Skills ]`](#technical-skills) &nbsp;•&nbsp; [`[ Featured Projects ]`](#featured-projects) &nbsp;•&nbsp; [`[ Repositories ]`](https://github.com/Vivek-A07?tab=repositories)
 
 
 ## About Me
