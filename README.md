@@ -20,9 +20,10 @@ In parallel, I am actively developing my skills in embedded systems by studying 
 
 I am seeking opportunities in Embedded Systems or Firmware Development where I can apply my knowledge and contribute to real-world products.
 
-![Focus](https://img.shields.io/badge/Focus-Embedded%20Systems-C03939?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-STM32-333333?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Karnataka%2C%20India-333333?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Focus-Embedded%20Systems%20%7C%20Firmware%20Development-B03A48?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Platform-STM32%20%7C%20C%20Programming%20%7C%20STM32CubeIDE-555555?style=flat-square" alt="Platform">
+</p>
 
 ---
 
