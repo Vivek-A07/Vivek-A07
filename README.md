@@ -32,24 +32,20 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 
 ---
-
 ## Technical Skills
 
-<div align="center">
-
-| **PROGRAMMING** | **MICROCONTROLLERS** |
-|:---:|:---:|
-| Embedded C · C | STM32 · Arduino · ESP32 |
-
-| **COMMUNICATION PROTOCOLS** | **PERIPHERALS** |
-|:---:|:---:|
-| UART · SPI · I2C | GPIO · ADC · Timers · PWM · Interrupts |
-
-| **DEVELOPMENT TOOLS** | **SIMULATION** |
-|:---:|:---:|
-| STM32CubeIDE · Git · Linux | PICSimLab |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C_PROGRAMMING-1B1B20?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32_MICROCONTROLLER-1B1B20?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARDUINO-1B1B20?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32CUBEIDE-1B1B20?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPIO-1B1B20?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADC-1B1B20?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWM-1B1B20?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIMERS-1B1B20?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/UART-1B1B20?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PICSIMLAB-1B1B20?style=for-the-badge&logoColor=white" />
+</p>
 
 
 ## Featured Projects
