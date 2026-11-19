@@ -33,8 +33,6 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 ---
 
----
-
 
 
 ## Technical Skills
