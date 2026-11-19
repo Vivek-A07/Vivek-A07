@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:1E3A5F,100:FF6B00&height=180&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:1E3A5F,100:FF6B00&height=185&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&height=35&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=FF6B00&center=true&vCenter=true&width=620&height=35&lines=%3E+Microcontrollers+%26+Peripheral+Drivers;%3E+STM32+Firmware+Development;%3E+Bare-Metal+Embedded+C+Programming" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00599C,50:38BDF8,100:FF6B00&height=10&animation=twinkling" width="85%" />
 
 </div>
+
+<br/>
 
 ## About Me
 
@@ -14,6 +20,8 @@
 > In parallel, I am actively developing my skills in embedded systems by studying microcontroller concepts and implementing them through hands-on firmware projects.
 >
 > I am seeking opportunities in Embedded Systems or Firmware Development where I can apply my knowledge and contribute to real-world products.
+
+<br/>
 
 ## Technical Skills
 
@@ -35,6 +43,7 @@
 > **IDEs, Simulators & Tooling**  
 > `STM32CubeIDE` • `PicSimLab` • `GCC` • `VS Code` • `Git & GitHub`
 
+<br/>
 
 ## Featured Projects
 
@@ -72,4 +81,8 @@
 >
 > </details>
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1E3A5F,100:03234B&height=110&section=footer&animation=twinkling" width="100%" />
 </div>
