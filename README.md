@@ -16,8 +16,6 @@
 
 ## About Me
 
-### Hi, I'm Vivek.
-
 I am a Mechatronics Engineering graduate with a strong interest in Embedded Systems and Firmware Development. I am currently undergoing Embedded Systems training at Emertxe, strengthening my foundation in C programming and Data Structures.
 
 In parallel, I am actively developing my skills in embedded systems by studying microcontroller concepts and implementing them through hands-on firmware projects.
