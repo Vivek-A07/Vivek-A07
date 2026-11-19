@@ -8,32 +8,12 @@
 
 ## About Me
 
-I am a Mechatronics Engineering graduate with a strong interest in Embedded Systems and Firmware Development. I am currently undergoing Embedded Systems training at Emertxe, strengthening my foundation in C programming and Data Structures.
+- 🎓 **Background:** **Mechatronics Engineering** graduate specializing in **Embedded Systems** and low-level firmware development[cite: 11].
+- ⚙️ **Core Training:** Undergoing intensive Embedded Systems training at **Emertxe** *(2x Student Spot Award recipient)*, building strong foundations in **C Programming** and **Data Structures**[cite: 11].
+- 🛠️ **Hands-On Focus:** Developing and verifying bare-metal & HAL microcontroller firmware on **STM32 (Blue Pill)** using **STM32CubeIDE**[cite: 11].
+- 🚀 **Current Goal:** Seeking entry-level **Embedded Systems** or **Firmware Development** roles to build reliable, real-world hardware products[cite: 11].
 
-In parallel, I am actively developing my skills in embedded systems by studying microcontroller concepts and implementing them through hands-on firmware projects.
-
-I am seeking opportunities in Embedded Systems or Firmware Development where I can apply my knowledge and contribute to real-world products.
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-B03A48?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=flat-square" alt="Embedded Systems">
-  <img src="https://img.shields.io/badge/Firmware%20Development-555555?style=flat-square" alt="Firmware Development">&nbsp;
-  <img src="https://img.shields.io/badge/Platform-B03A48?style=flat-square" alt="Platform">
-  <img src="https://img.shields.io/badge/STM32-555555?style=flat-square" alt="STM32">
-  <img src="https://img.shields.io/badge/C%20Programming-555555?style=flat-square" alt="C Programming">
-  <img src="https://img.shields.io/badge/STM32CubeIDE-555555?style=flat-square" alt="STM32CubeIDE">
-</p>
-
-
-<div align="center">
-
-<div align="left">
-
-<div align="left">
-
-<div align="left">
-
-<div align="left">
+`Focus` **`Embedded Systems`** • **`Firmware Development`** &nbsp;&nbsp;|&nbsp;&nbsp; `Platform` **`STM32`** • **`C Programming`** • **`STM32CubeIDE`**[cite: 11]
 
 ## Technical Skills
 
