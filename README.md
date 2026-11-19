@@ -1,9 +1,7 @@
-<table width="100%">
-  <tr>
-    <td align="left"><b>📍 Karnataka, India</b></td>
-    <td align="right"><h1>Vivek</h1></td>
-  </tr>
-</table>
+<div align="center">
+  <span align="left">📍 Karnataka, India</span>
+  <span align="right"># Vivek</span>
+</div>
 
 *Embedded Software Engineer*
 
