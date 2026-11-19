@@ -54,8 +54,11 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 <div align="left">
 
+<div align="left">
+
 ## Featured Projects
 
+> [!CAUTION]
 > ### **1. STM32 Microcontroller Firmware Suite**
 > **Repository:** [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; **Stack:** `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
 >
@@ -72,11 +75,13 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 <br/>
 
+> [!CAUTION]
 > ### **2. AI-Powered Autonomous Campus Waste Management System**
 > **Repository:** [`Vivek-A07/AI-Campus-Waste-Management-System`](https://github.com/Vivek-A07/AI-Campus-Waste-Management-System) &nbsp;|&nbsp; **Stack:** `Arduino Mega` • `YOLOv8` • `Flutter` • `IoT`
 
 <br/>
 
+> [!CAUTION]
 > ### **3. Systems & Core C Programming Portfolio**
 > **Repository:** [`Vivek-A07/C-Programming-Projects`](https://github.com/Vivek-A07/C-Programming-Projects) &nbsp;|&nbsp; **Stack:** `C Programming` • `Bitwise Operations` • `File I/O` • `Pointers` • `GCC`
 >
