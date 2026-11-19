@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:1E3A5F,100:FF6B00&height=180&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:1E3A5F,100:FF6B00&height=185&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&height=35&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=620&height=35&lines=%3E+Microcontrollers+%26+Peripheral+Drivers;%3E+STM32+Firmware+Development;%3E+Bare-Metal+Embedded+C+Programming" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00599C,50:38BDF8,100:FF6B00&height=10&animation=twinkling" width="85%" />
 
 </div>
 
-## About Me
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=999999&color=38BDF8&vCenter=true&width=320&height=35&lines=01.+%2F%2F+About+Me" alt="About Me" />
 
 > [!NOTE]
 > I am a Mechatronics Engineering graduate with a strong interest in Embedded Systems and Firmware Development. I am currently undergoing Embedded Systems training at Emertxe, strengthening my foundation in C programming and Data Structures.
@@ -15,7 +19,9 @@
 >
 > I am seeking opportunities in Embedded Systems or Firmware Development where I can apply my knowledge and contribute to real-world products.
 
-## Technical Skills
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=999999&color=FF6B00&vCenter=true&width=380&height=35&lines=02.+%2F%2F+Technical+Skills" alt="Technical Skills" />
 
 > **Languages & Core**  
 > `C Programming` • `Embedded C` • `Pointers & Memory Management` • `Bitwise Operations` • `Data Structures`
@@ -35,8 +41,9 @@
 > **IDEs, Simulators & Tooling**  
 > `STM32CubeIDE` • `PicSimLab` • `GCC` • `VS Code` • `Git & GitHub`
 
+<br/>
 
-## Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=999999&color=38BDF8&vCenter=true&width=400&height=35&lines=03.+%2F%2F+Featured+Projects" alt="Featured Projects" />
 
 > ### **1. STM32 Microcontroller Firmware Suite**
 > **Repository:** [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; **Stack:** `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
@@ -72,4 +79,8 @@
 >
 > </details>
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1E3A5F,100:03234B&height=110&section=footer&animation=twinkling" width="100%" />
 </div>
