@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00599C,100:FF6B00&height=180&section=header&text=VIVEK&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=18&descAlignY=62&font=JetBrains%20Mono&animation=blinking" width="100%" />
+# Vivek
+**Embedded Software Engineer** &nbsp;|&nbsp; Karnataka, India
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=FF6B00&center=true&vCenter=true&width=620&height=35&lines=%3E%3E+Microcontrollers+%26+Peripheral+Drivers;%3E%3E+STM32+Firmware+Development;%3E%3E+Bare-Metal+Embedded+C+Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=FF6B00&center=true&vCenter=true&width=580&height=35&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+%26+Debugging" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00599C,50:1E90FF,100:FF6B00&height=14&animation=twinkling" width="85%" />
 
 </div>
 
