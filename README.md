@@ -1,14 +1,11 @@
-```text
-========================================================================
-  [SYS_INIT]  ENGINEER : Vivek
-  [SYS_ROLE]  FOCUS    : Embedded Software Engineer
-  [SYS_LOC ]  BASE     : Karnataka, India
-  [MCU_CORE]  TARGET   : ARM Cortex-M3 (STM32F103) | Bare-Metal C
-========================================================================
-```
+# Vivek
+**Embedded Software Engineer** &nbsp;•&nbsp; 📍 **Karnataka, India**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,100:FF6B00&height=3" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=32&lines=%3E+Initializing+Microcontrollers+%26+Peripheral+Drivers...;%3E+Loading+STM32+HAL+%26+CMSIS+Firmware+Modules...;%3E+Ready+for+Embedded+Software+Engineering+Roles." alt="Boot Status" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&height=35&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+%26+Hardware+Debugging" alt="Typing SVG" />
 </div>
 
 
