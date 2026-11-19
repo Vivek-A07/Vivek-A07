@@ -34,18 +34,8 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 ---
 ## Technical Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C_PROGRAMMING-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="C Programming"/>
-  <img src="https://img.shields.io/badge/STM32_MICROCONTROLLER-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="STM32 Microcontroller"/>
-  <img src="https://img.shields.io/badge/ARDUINO-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/STM32CUBEIDE-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="STM32CubeIDE"/>
-  <img src="https://img.shields.io/badge/GPIO-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="GPIO"/>
-  <img src="https://img.shields.io/badge/ADC-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="ADC"/>
-  <img src="https://img.shields.io/badge/PWM-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="PWM"/>
-  <img src="https://img.shields.io/badge/TIMERS-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="Timers"/>
-  <img src="https://img.shields.io/badge/UART-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="UART"/>
-  <img src="https://img.shields.io/badge/PICSIMLAB-0D1117?style=flat&labelColor=0D1117&color=0D1117" alt="PICSimLab"/>
-</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/C_PROGRAMMING-252B33?style=for-the-badge&labelColor=252B33&color=252B33&logoColor=white](https://img.shields.io/badge/C_PROGRAMMING-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/STM32_MICROCONTROLLER-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/STM32_MICROCONTROLLER-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/ARDUINO-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/ARDUINO-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/STM32CUBEIDE-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/STM32CUBEIDE-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/GPIO-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/GPIO-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/ADC-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/ADC-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/PWM-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/PWM-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/TIMERS-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/TIMERS-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/UART-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/UART-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/PICSIMLAB-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/PICSIMLAB-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" /> \</p>
+
 
 ## Featured Projects
 
