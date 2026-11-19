@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=620&height=35&lines=%3E+Microcontrollers+%26+Peripheral+Drivers;%3E+STM32+Firmware+Development;%3E+Bare-Metal+Embedded+C+Programming" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00599C,50:38BDF8,100:FF6B00&height=10&animation=twinkling" width="85%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00599C,50:38BDF8,100:FF6B00&height=10&animation=twinkling" width="85%" /> -->
 
 </div>
 
