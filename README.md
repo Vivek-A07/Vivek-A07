@@ -1,8 +1,13 @@
-<p align="right"><b>Karnataka, India</b></p>
-
-<hr>
-
-# Vivek
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Vivek</h1>
+    </td>
+    <td align="right">
+      <b>Karnataka, India</b>
+    </td>
+  </tr>
+</table>
 
 *Embedded Software Engineer*
 
