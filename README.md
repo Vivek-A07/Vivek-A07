@@ -90,6 +90,18 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=999999&color=38BDF8&vCenter=true&width=440&height=35&lines=05.+%2F%2F+Connect+%26+Profiles" alt="Connect & Profiles" />
+
+> **Open to Embedded Systems & Firmware Engineering Roles**  
+> [**`LinkedIn ↗`**](https://linkedin.com/in/your-linkedin-id) &nbsp;•&nbsp; [**`Email ↗`**](mailto:your-email@example.com) &nbsp;•&nbsp; [**`Download Resume ↗`**](./Vivek_Embedded_Resume.pdf) &nbsp;•&nbsp; [**`GitHub Repositories ↗`**](https://github.com/Vivek-A07?tab=repositories)
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1E3A5F,100:03234B&height=110&section=footer&animation=twinkling" width="100%" />
+</div>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1E3A5F,100:03234B&height=110&section=footer&animation=twinkling" width="100%" />
 </div>
