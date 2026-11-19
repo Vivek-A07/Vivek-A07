@@ -21,33 +21,33 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=999999&color=FF6B00&vCenter=true&width=380&height=35&lines=02.+%2F%2F+Technical+Skills" alt="Technical Skills" />
 
-> **Languages & Core**  
+> $\textsf{\textbf{Languages \& Core}}$  
 > `C Programming` • `Embedded C` • `Pointers & Memory Management` • `Bitwise Operations` • `Data Structures`
 
 <br/>
 
-> **Microcontrollers & Architecture**  
+> $\textsf{\textbf{Microcontrollers \& Architecture}}$  
 > `STM32F103 (Blue Pill)` • `ARM Cortex-M3` • `Arduino` • `HAL & CMSIS`
 
 <br/>
 
-> **Peripherals & Communication**  
+> $\textsf{\textbf{Peripherals \& Communication}}$  
 > `GPIO` • `12-Bit ADC` • `Timers` • `PWM` • `UART`
 
 <br/>
 
-> **IDEs, Simulators & Tooling**  
+> $\textsf{\textbf{IDEs, Simulators \& Tooling}}$  
 > `STM32CubeIDE` • `PicSimLab` • `GCC` • `VS Code` • `Git & GitHub`
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=999999&color=38BDF8&vCenter=true&width=400&height=35&lines=03.+%2F%2F+Featured+Projects" alt="Featured Projects" />
 
-> ### **1. STM32 Microcontroller Firmware Suite**
-> **Repository:** [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; **Stack:** `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
+> ### $\textsf{\textbf{1. STM32 Microcontroller Firmware Suite}}$
+> $\textsf{\textbf{Repository:}}$ [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; $\textsf{\textbf{Stack:}}$ `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
 >
 > <details>
-> <summary><b>View Firmware Projects</b></summary>
+> <summary>$\textsf{\textbf{View Firmware Projects}}$</summary>
 > <br/>
 >
 > - **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System)**
@@ -59,16 +59,16 @@
 
 <br/>
 
-> ### **2. AI-Powered Autonomous Campus Waste Management System**
-> **Repository:** [`Vivek-A07/AI-Campus-Waste-Management-System`](https://github.com/Vivek-A07/AI-Campus-Waste-Management-System) &nbsp;|&nbsp; **Stack:** `Arduino Mega` • `YOLOv8` • `Flutter` • `IoT`
+> ### $\textsf{\textbf{2. AI-Powered Autonomous Campus Waste Management System}}$
+> $\textsf{\textbf{Repository:}}$ [`Vivek-A07/AI-Campus-Waste-Management-System`](https://github.com/Vivek-A07/AI-Campus-Waste-Management-System) &nbsp;|&nbsp; $\textsf{\textbf{Stack:}}$ `Arduino Mega` • `YOLOv8` • `Flutter` • `IoT`
 
 <br/>
 
-> ### **3. Systems & Core C Programming Portfolio**
-> **Repository:** [`Vivek-A07/C-Programming-Projects`](https://github.com/Vivek-A07/C-Programming-Projects) &nbsp;|&nbsp; **Stack:** `C Programming` • `Bitwise Operations` • `File I/O` • `Pointers` • `GCC`
+> ### $\textsf{\textbf{3. Systems \& Core C Programming Portfolio}}$
+> $\textsf{\textbf{Repository:}}$ [`Vivek-A07/C-Programming-Projects`](https://github.com/Vivek-A07/C-Programming-Projects) &nbsp;|&nbsp; $\textsf{\textbf{Stack:}}$ `C Programming` • `Bitwise Operations` • `File I/O` • `Pointers` • `GCC`
 >
 > <details>
-> <summary><b>View C Applications</b></summary>
+> <summary>$\textsf{\textbf{View C Applications}}$</summary>
 > <br/>
 >
 > - **[LSB-Image-Steganography](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/LSB-Image-Steganography)**
@@ -100,5 +100,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1E3A5F,100:03234B&height=110&section=footer&animation=twinkling" width="100%" />
 </div>
-
-
