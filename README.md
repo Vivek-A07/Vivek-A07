@@ -1,8 +1,25 @@
 # Vivek | Embedded Software Engineer
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=18&pause=1200&color=E05252&center=true&vCenter=true&width=600&lines=Embedded+C+Developer;STM32+Firmware+Development;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects](https://readme-typing-svg.demolab.com?font=Courier+New\&weight=500\&size=18\&pause=1200\&color=E05252\&center=true\&vCenter=true\&width=600\&lines=Embedded+C+Developer;STM32+Firmware+Development;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects)" alt="Animated introduction" /> \</p>
+![Animated Introduction](https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=18&pause=1200&color=E05252&center=true&vCenter=true&width=600&lines=Embedded+C+Developer;STM32+Firmware+Development;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects)
 
-\<p align="center">   \<a href="[https://github.com/Vivek-A07](https://github.com/Vivek-A07)">     \<img src="[https://img.shields.io/badge/GitHub-Vivek--A07-242424?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Vivek--A07-242424?style=flat-square\&logo=github\&logoColor=white)" alt="GitHub">   \</a>   \<a href="[https://github.com/Vivek-A07/Microcontroller-Projects](https://github.com/Vivek-A07/Microcontroller-Projects)">     \<img src="[https://img.shields.io/badge/Projects-STM32%20%7C%20Embedded-C03939?style=flat-square](https://img.shields.io/badge/Projects-STM32%20%7C%20Embedded-C03939?style=flat-square)" alt="Projects">   \</a> \</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Vivek--A07-242424?style=flat-square&logo=github&logoColor=white)](https://github.com/Vivek-A07)
+[![Projects](https://img.shields.io/badge/Projects-STM32%20%7C%20Embedded-C03939?style=flat-square)](https://github.com/Vivek-A07/Microcontroller-Projects)
+
+---
+
+## About Me
+
+### Hi, I'm Vivek.
+
+I build things that connect code with hardware, focusing on STM32 firmware, Embedded C, peripheral drivers, sensor interfacing, and practical debugging.
+
+Currently strengthening my embedded software development skills through hands-on microcontroller projects and firmware development.
+
+![Focus](https://img.shields.io/badge/Focus-Embedded%20Systems-C03939?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-STM32-333333?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Karnataka%2C%20India-333333?style=flat-square)
+
+---
 
 ---
 
