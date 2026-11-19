@@ -1,6 +1,6 @@
-<div align="center">
-  <span align="left">📍 Karnataka, India</span>
-  <span align="right"># Vivek</span>
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <h1>Vivek</h1>
+  <b>Karnataka, India</b>
 </div>
 
 *Embedded Software Engineer*
