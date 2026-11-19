@@ -1,18 +1,15 @@
 
 # Vivek
 
+\<p align="right">   \<b>📍 Karnataka, India\</b> \</p>
+
 *Embedded Software Engineer*
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=750&lines=STM32+Firmware+Development;Embedded+C+Programming;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects" alt="Animated Introduction">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-%E2%80%94-2878B5?style=flat-square" height="3">
-  <img src="https://img.shields.io/badge/-%E2%80%94-E58A36?style=flat-square" height="3">
-</p>
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=750&height=30&lines=STM32+Firmware+Development;Embedded+C+Programming;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects](https://readme-typing-svg.demolab.com?font=Courier+New\&weight=400\&size=18\&pause=1200\&color=9CA3AF\&center=true\&vCenter=true\&width=750\&height=30\&lines=STM32+Firmware+Development;Embedded+C+Programming;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects)" alt="Animated Introduction"> \</p>
 
 ---
+
+
 
 ## About Me
 
