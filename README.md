@@ -34,9 +34,16 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 ---
 ## Technical Skills
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/C_PROGRAMMING-252B33?style=for-the-badge&labelColor=252B33&color=252B33&logoColor=white](https://img.shields.io/badge/C_PROGRAMMING-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/STM32_MICROCONTROLLER-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/STM32_MICROCONTROLLER-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/ARDUINO-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/ARDUINO-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/STM32CUBEIDE-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/STM32CUBEIDE-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/GPIO-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/GPIO-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/ADC-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/ADC-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/PWM-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/PWM-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/TIMERS-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/TIMERS-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/UART-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/UART-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" />   \<img src="[https://img.shields.io/badge/PICSIMLAB-252B33?style=for-the-badge&labelColor=252B33&color=252B33](https://img.shields.io/badge/PICSIMLAB-252B33?style=for-the-badge\&labelColor=252B33\&color=252B33)" /> \</p>
-
-
+![C Programming](https://img.shields.io/badge/C_PROGRAMMING-252B33?style=for-the-badge)
+![STM32 Microcontroller](https://img.shields.io/badge/STM32_MICROCONTROLLER-252B33?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/ARDUINO-252B33?style=for-the-badge)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CUBEIDE-252B33?style=for-the-badge)
+![GPIO](https://img.shields.io/badge/GPIO-252B33?style=for-the-badge)
+![ADC](https://img.shields.io/badge/ADC-252B33?style=for-the-badge)
+![PWM](https://img.shields.io/badge/PWM-252B33?style=for-the-badge)
+![Timers](https://img.shields.io/badge/TIMERS-252B33?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-252B33?style=for-the-badge)
+![PICSimLab](https://img.shields.io/badge/PICSIMLAB-252B33?style=for-the-badge)
 ## Featured Projects
 
 Projects focused on microcontroller programming, peripheral interfacing, and embedded firmware development.
