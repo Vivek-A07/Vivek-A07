@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:1E3A5F,100:FF6B00&height=180&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:03234B,50:1E3A5F,100:FF6B00&height=175&section=header&text=VIVEK&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=EMBEDDED%20SOFTWARE%20ENGINEER%20%7C%20KARNATAKA%2C%20INDIA&descSize=16&descAlignY=60&font=Orbitron&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&height=35&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2600&pause=900&color=FF6B00&center=true&vCenter=true&width=620&height=35&lines=%5B+MICROCONTROLLERS+%26+PERIPHERAL+DRIVERS+%5D;%5B+STM32+FIRMWARE+DEVELOPMENT+%5D;%5B+BARE-METAL+EMBEDDED+C+PROGRAMMING+%5D" alt="Typing SVG" />
 
 </div>
 
