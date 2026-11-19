@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=620&height=35&lines=%3E+Microcontrollers+%26+Peripheral+Drivers;%3E+STM32+Firmware+Development;%3E+Bare-Metal+Embedded+C+Programming" alt="Typing SVG" />
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00599C,50:38BDF8,100:FF6B00&height=10&animation=twinkling" width="85%" /> -->
-
 </div>
 
 <br/>
@@ -79,7 +77,7 @@
 >
 > </details>
 
- 
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=999999&color=FF6B00&vCenter=true&width=480&height=35&lines=04.+%2F%2F+Certifications+%26+Awards" alt="Certifications & Awards" />
 
@@ -90,10 +88,8 @@
 > - **Fundamentals of Robotics & Industrial Automation** — *L&T EduTech (Coursera)* &nbsp;|&nbsp; [**`View Certificate ↗`**](https://your-coursera-certificate-link)
 > - **Certified SolidWorks Associate (CSWA)** — *Dassault Systèmes* &nbsp;|&nbsp; [**`View Certificate ↗`**](https://your-solidworks-certificate-link)
 
-
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1E3A5F,100:03234B&height=110&section=footer&animation=twinkling" width="100%" />
 </div>
-
-
