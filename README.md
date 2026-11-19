@@ -81,10 +81,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=999999&color=FF6B00&vCenter=true&width=480&height=35&lines=04.+%2F%2F+Certifications+%26+Awards" alt="Certifications & Awards" />
 
-> [!TIP]
-> **Emertxe Certified Embedded Professional** — *Emertxe Information Technologies*  
-> 🏆 **Honors:** Awarded the **Student Spot Award (2x)** for consistent technical excellence in C programming and embedded systems coursework.  
-> **Focus Areas:** `Embedded C` • `Pointers & Memory Architecture` • `Data Structures` • `Microcontroller Peripherals`
+> ### **Emertxe Certified Embedded Professional**
+> **Issuer:** Emertxe Information Technologies &nbsp;|&nbsp; **Honors:** `Student Spot Award (2x)`
+>
+> <details>
+> <summary><b>View Coursework & Credentials</b></summary>
+> <br/>
+>
+> - **Specialization:** `C Programming` • `Data Structures` • `Embedded Systems` • `Microcontroller Firmware`
+> - **Achievement:** Two-time **Student Spot Award** recipient during intensive embedded systems training.
+>
+> </details>
 
 
 <br/>
