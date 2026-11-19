@@ -24,12 +24,15 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
   <img src="https://img.shields.io/badge/Focus-B03A48?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=flat-square" alt="Embedded Systems">
   <img src="https://img.shields.io/badge/Firmware%20Development-555555?style=flat-square" alt="Firmware Development">
-
+</p>
+<p>
+  
   <img src="https://img.shields.io/badge/Platform-B03A48?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/STM32-555555?style=flat-square" alt="STM32">
   <img src="https://img.shields.io/badge/C%20Programming-555555?style=flat-square" alt="C Programming">
   <img src="https://img.shields.io/badge/STM32CubeIDE-555555?style=flat-square" alt="STM32CubeIDE">
 </p>
+
 
 ---
 
