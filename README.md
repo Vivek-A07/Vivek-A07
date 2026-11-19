@@ -18,10 +18,11 @@
 
 ### Hi, I'm Vivek.
 
-I build things that connect code with hardware, focusing on STM32 firmware, Embedded C, peripheral drivers, sensor interfacing, and practical debugging.
+I am a Mechatronics Engineering graduate with a strong interest in Embedded Systems and Firmware Development. I am currently undergoing Embedded Systems training at Emertxe, strengthening my foundation in C programming and Data Structures.
 
-Currently strengthening my embedded software development skills through hands-on microcontroller projects and firmware development.
+In parallel, I am actively developing my skills in embedded systems by studying microcontroller concepts and implementing them through hands-on firmware projects.
 
+I am seeking opportunities in Embedded Systems or Firmware Development where I can apply my knowledge and contribute to real-world products.
 
 ![Focus](https://img.shields.io/badge/Focus-Embedded%20Systems-C03939?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-STM32-333333?style=flat-square)
