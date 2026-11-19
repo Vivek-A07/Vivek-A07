@@ -35,40 +35,25 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 ## Technical Skills
 
-\<div align="center">
-
-\<table> \<tr> \<td width="50%" valign="top">
+## Technical Skills
 
 ### 🟠 Programming
-
 `Embedded C` `C`
 
 ### 🟠 Microcontrollers
-
 `STM32` `Arduino` `ESP32`
 
 ### 🟠 Communication Protocols
-
 `UART` `SPI` `I2C`
 
-\</td> \<td width="50%" valign="top">
-
 ### 🟠 Peripherals
-
 `GPIO` `ADC` `Timers` `PWM` `Interrupts`
 
 ### 🟠 Development Tools
-
 `STM32CubeIDE` `Git` `Linux`
 
 ### 🟠 Simulation
-
 `PICSimLab`
-
-\</td> \</tr> \</table>
-
-\</div>
-
 
 ## Featured Projects
 
