@@ -1,10 +1,16 @@
-# Vivek
-**Embedded Software Engineer** — *Karnataka, India*
+<div align="center">
 
-> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=38BDF8&vCenter=true&width=540&height=28&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+Programming" alt="Role Focus" />
->
-> **Jump to:** &nbsp; [`[ Technical Skills ]`](#technical-skills) &nbsp;•&nbsp; [`[ Featured Projects ]`](#featured-projects) &nbsp;•&nbsp; [`[ Repositories ]`](https://github.com/Vivek-A07?tab=repositories)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=550&height=50&lines=Hi%2C+I'm+Vivek.;Embedded+Software+Engineer." alt="Vivek" />
+</a>
 
+**Karnataka, India** &nbsp;•&nbsp; `Microcontrollers & Peripheral Drivers` &nbsp;•&nbsp; `STM32 Firmware`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,50:FF6B00,100:00599C&height=2" width="75%" />
+
+</div>
 
 ## About Me
 
