@@ -52,19 +52,21 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 <div align="left">
 
+<div align="left">
+
 ## Featured Projects
 
 > ### **1. STM32 Microcontroller Firmware Suite**
 > **Repository:** [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; **Stack:** `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
 >
 > <details>
-> <summary><b>View Firmware Modules & Peripherals</b></summary>
+> <summary><b>View Firmware Projects</b></summary>
 > <br/>
 >
-> - **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System):** 12-bit ADC analog sensor sampling with UART serial telemetry and threshold alerts.
-> - **[PWM-LED-Brightness-Control](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/PWM-LED-Brightness-Control):** Hardware Timer PWM duty-cycle modulation driven by real-time potentiometer ADC readings.
-> - **[Multi-Mode-LED-Controller](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Multi-Mode-LED-Controller):** Non-blocking push-button state machine using `HAL_GetTick()` software debouncing.
-> - **[Binary-Counter-Display](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Binary-Counter-Display):** Port-level GPIO bit manipulation driving multi-LED binary state transitions.
+> - **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System)**
+> - **[PWM-LED-Brightness-Control](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/PWM-LED-Brightness-Control)**
+> - **[Multi-Mode-LED-Controller](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Multi-Mode-LED-Controller)**
+> - **[Binary-Counter-Display](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Binary-Counter-Display)**
 >
 > </details>
 
@@ -72,33 +74,24 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 > ### **2. AI-Powered Autonomous Campus Waste Management System**
 > **Repository:** [`Vivek-A07/AI-Campus-Waste-Management-System`](https://github.com/Vivek-A07/AI-Campus-Waste-Management-System) &nbsp;|&nbsp; **Stack:** `Arduino Mega` • `YOLOv8` • `Flutter` • `IoT`
->
-> <details>
-> <summary><b>View System Architecture</b></summary>
-> <br/>
->
-> - Combines real-time **YOLOv8** computer-vision waste classification with **Arduino Mega** motor/actuator control for autonomous robotic collection[cite: 6].
-> - Integrates **IoT** telemetry and a **Flutter** mobile interface for live bin status and remote fleet monitoring[cite: 6].
->
-> </details>
 
 <br/>
 
 > ### **3. Systems & Core C Programming Portfolio**
-> **Repository:** [`Vivek-A07/C-Programming-Projects`](https://github.com/Vivek-A07/C-Programming-Projects) &nbsp;|&nbsp; **Stack:** `ANSI C` • `Bitwise Operations` • `File I/O` • `Pointers` • `GCC`
+> **Repository:** [`Vivek-A07/C-Programming-Projects`](https://github.com/Vivek-A07/C-Programming-Projects) &nbsp;|&nbsp; **Stack:** `C Programming` • `Bitwise Operations` • `File I/O` • `Pointers` • `GCC`
 >
 > <details>
 > <summary><b>View C Applications</b></summary>
 > <br/>
 >
-> - **[LSB-Image-Steganography](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/LSB-Image-Steganography):** Encodes and decodes hidden payloads inside `.bmp` pixel buffers using bitwise masking and binary file I/O.
-> - **[Address-Book-Management](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/Address-Book-Management):** CLI contact database featuring dynamic record parsing, search indexing, and 10-digit phone validation.
-> - **[Tic-Tac-Toe](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/Tic-Tac-Toe):** Modular 2D-array state engine with win-condition evaluation and input sanitization.
+> - **[LSB-Image-Steganography](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/LSB-Image-Steganography)**
+> - **[Address-Book-Management](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/Address-Book-Management)**
+> - **[Tic-Tac-Toe](https://github.com/Vivek-A07/C-Programming-Projects/tree/main/Tic-Tac-Toe)**
 >
 > </details>
 
 </div>
----
+
 
 ## GitHub
 
