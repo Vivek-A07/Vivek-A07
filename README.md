@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=750&height=30&lines=STM32+Firmware+Development;Embedded+C+Programming;Microcontrollers+%26+Peripheral+Drivers;Building+Practical+Embedded+Projects" alt="Animated Introduction">
 </div>
 
----
 
 
 ## About Me
@@ -49,7 +48,7 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 - ### **IDEs & Simulation:** &nbsp; <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/PicSimLab-333333?style=for-the-badge" height="35" />  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" />
 
 </div>
----
+
 
 ## Featured Projects
 
