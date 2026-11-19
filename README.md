@@ -32,22 +32,20 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 
 ---
-## Stack.
+## Technical Skills
 
-*10 tools I work with.*
+![C Programming](https://img.shields.io/badge/C_PROGRAMMING-252B33?style=for-the-badge)
+![STM32 Microcontroller](https://img.shields.io/badge/STM32_MICROCONTROLLER-252B33?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/ARDUINO-252B33?style=for-the-badge)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CUBEIDE-252B33?style=for-the-badge)
+![GPIO](https://img.shields.io/badge/GPIO-252B33?style=for-the-badge)
+![ADC](https://img.shields.io/badge/ADC-252B33?style=for-the-badge)
+![PWM](https://img.shields.io/badge/PWM-252B33?style=for-the-badge)
+![Timers](https://img.shields.io/badge/TIMERS-252B33?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-252B33?style=for-the-badge)
+![PICSimLab](https://img.shields.io/badge/PICSIMLAB-252B33?style=for-the-badge)
 
-<p align="left">
-  <code>C PROGRAMMING</code>
-  <code>STM32 MICROCONTROLLER</code>
-  <code>ARDUINO</code>
-  <code>STM32CUBEIDE</code>
-  <code>GPIO</code>
-  <code>ADC</code>
-  <code>PWM</code>
-  <code>TIMERS</code>
-  <code>UART</code>
-  <code>PICSIMLAB</code>
-</p>
+
 ## Featured Projects
 
 Projects focused on microcontroller programming, peripheral interfacing, and embedded firmware development.
