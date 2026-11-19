@@ -33,12 +33,16 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 <div align="center">
 
+<div align="left">
+
 ## Technical Skills
 
-- **Languages & Core:** ![C](https://img.shields.io/badge/C_Programming-00599C?style=flat-square&logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-1E90FF?style=flat-square) — Pointers, memory segments, bit manipulation, state machines
-- **Microcontrollers:** ![STM32](https://img.shields.io/badge/STM32_Blue_Pill-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) — ARM Cortex-M3 bare-metal & HAL/CMSIS driver development
-- **Peripherals & Buses:** ![GPIO](https://img.shields.io/badge/GPIO-FF6B00?style=flat-square) ![ADC](https://img.shields.io/badge/ADC-FF6B00?style=flat-square) ![PWM](https://img.shields.io/badge/PWM-FF6B00?style=flat-square) ![Timers](https://img.shields.io/badge/Timers-FF6B00?style=flat-square) ![UART](https://img.shields.io/badge/UART-FF6B00?style=flat-square) — Non-blocking debouncing, analog sampling, duty-cycle control
-- **IDEs & Simulation:** ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![PicSimLab](https://img.shields.io/badge/PicSimLab-333333?style=flat-square) ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) — Clock tree setup, virtual oscilloscope verification, assembly inspection
+- **Languages & Core:** ![C](https://img.shields.io/badge/C_Programming-00599C?style=flat-square&logo=c&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-1E90FF?style=flat-square)
+- **Microcontrollers:** ![STM32](https://img.shields.io/badge/STM32_Blue_Pill-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+- **Peripherals & Buses:** ![GPIO](https://img.shields.io/badge/GPIO-FF6B00?style=flat-square) ![ADC](https://img.shields.io/badge/ADC-FF6B00?style=flat-square) ![PWM](https://img.shields.io/badge/PWM-FF6B00?style=flat-square) ![Timers](https://img.shields.io/badge/Timers-FF6B00?style=flat-square) ![UART](https://img.shields.io/badge/UART-FF6B00?style=flat-square)
+- **IDEs & Simulation:** ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![PicSimLab](https://img.shields.io/badge/PicSimLab-333333?style=flat-square) ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 ## Featured Projects
 
 Projects focused on microcontroller programming, peripheral interfacing, and embedded firmware development.
