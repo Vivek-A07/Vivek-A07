@@ -79,6 +79,16 @@
 >
 > </details>
 
+
+> ### **Emertxe Certified Embedded Professional (ECEP)**
+> **Issuing Organization:** Emertxe Information Technologies &nbsp;|&nbsp; **Recognition:** `2x Student Spot Award Recipient`
+>
+> **Core Modules:** `Advanced C Programming` • `Data Structures & Algorithms` • `ARM Cortex-M & Microcontrollers` • `Linux Internals`
+
+
+
+
+
 <br/>
 
 <div align="center">
@@ -86,7 +96,3 @@
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=999999&color=FF6B00&vCenter=true&width=480&height=35&lines=04.+%2F%2F+Certifications+%26+Awards" alt="Certifications & Awards" />
 
-> ### **Emertxe Certified Embedded Professional (ECEP)**
-> **Issuing Organization:** Emertxe Information Technologies &nbsp;|&nbsp; **Recognition:** `2x Student Spot Award Recipient`
->
-> **Core Modules:** `Advanced C Programming` • `Data Structures & Algorithms` • `ARM Cortex-M & Microcontrollers` • `Linux Internals`
