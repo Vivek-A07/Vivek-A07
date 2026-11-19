@@ -35,26 +35,22 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 ## Technical Skills
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,vscode,git,github,linux&perline=7" />
-</a>
+```c
+/* firmware_stack.h */
+typedef struct {
+    const char *languages[2];
+    const char *architectures[2];
+    const char *peripherals[5];
+    const char *tools_and_debug[5];
+} EmbeddedProfile_t;
 
-<br/>
-
-<img src="https://img.shields.io/badge/STM32_(ARM_Cortex--M3)-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/STM32CubeIDE-00599C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/HAL_%26_CMSIS-1E90FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PicSimLab-2B3137?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/GPIO-FF6B00?style=flat-square" />
-<img src="https://img.shields.io/badge/12--Bit_ADC-FF6B00?style=flat-square" />
-<img src="https://img.shields.io/badge/Timers_%26_PWM-FF6B00?style=flat-square" />
-<img src="https://img.shields.io/badge/UART-FF6B00?style=flat-square" />
-<img src="https://img.shields.io/badge/GCC_Compiler-A42E2B?style=flat-square" />
-
-</div>
+const EmbeddedProfile_t vivek_skills = {
+    .languages       = { "C Programming", "Embedded C" },
+    .architectures   = { "STM32F103 (ARM Cortex-M3)", "Arduino" },
+    .peripherals     = { "GPIO", "12-Bit ADC", "Timers", "PWM", "UART" },
+    .tools_and_debug = { "STM32CubeIDE", "HAL / CMSIS", "PicSimLab", "GCC", "Git" }
+};
+```
 
 ## Featured Projects
 
