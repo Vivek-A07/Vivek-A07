@@ -8,12 +8,27 @@
 
 ## About Me
 
-- 🎓 **Background:** **Mechatronics Engineering** graduate specializing in **Embedded Systems** and low-level firmware development[cite: 11].
-- ⚙️ **Core Training:** Undergoing intensive Embedded Systems training at **Emertxe** *(2x Student Spot Award recipient)*, building strong foundations in **C Programming** and **Data Structures**[cite: 11].
-- 🛠️ **Hands-On Focus:** Developing and verifying bare-metal & HAL microcontroller firmware on **STM32 (Blue Pill)** using **STM32CubeIDE**[cite: 11].
-- 🚀 **Current Goal:** Seeking entry-level **Embedded Systems** or **Firmware Development** roles to build reliable, real-world hardware products[cite: 11].
+> **Mechatronics Engineering** graduate specializing in **Embedded Systems** and low-level **Firmware Development**.
 
-`Focus` **`Embedded Systems`** • **`Firmware Development`** &nbsp;&nbsp;|&nbsp;&nbsp; `Platform` **`STM32`** • **`C Programming`** • **`STM32CubeIDE`**[cite: 11]
+<details open>
+<summary><b>01. Background & Embedded Training</b></summary>
+<br/>
+
+Currently undergoing intensive Embedded Systems training at **Emertxe** *(2x Student Spot Award recipient)*, building a deep foundation in **C Programming**, **Data Structures**, and low-level memory management.
+
+</details>
+
+<details>
+<summary><b>02. Hardware Focus & Career Objective</b></summary>
+<br/>
+
+Actively developing and debugging bare-metal and HAL microcontroller firmware on **STM32 (Blue Pill)** using **STM32CubeIDE**, seeking entry-level **Embedded Systems** or **Firmware Development** roles to contribute to real-world hardware products.
+
+</details>
+
+<br/>
+
+**Focus:** `Embedded Systems` • `Firmware Development` &nbsp;|&nbsp; **Platform:** `STM32` • `C Programming` • `STM32CubeIDE`
 
 ## Technical Skills
 
