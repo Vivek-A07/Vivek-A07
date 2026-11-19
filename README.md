@@ -23,21 +23,7 @@ Currently strengthening my embedded software development skills through hands-on
 
 ---
 
-## About Me
 
-### Hi, I'm Vivek.
-
-I build things that connect code with hardware, focusing on STM32 firmware, Embedded C, peripheral drivers, sensor interfacing, and practical debugging.
-
-Currently strengthening my embedded software development skills through hands-on microcontroller projects and firmware development.
-
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Focus-Embedded%20Systems-C03939?style=flat-square](https://img.shields.io/badge/Focus-Embedded%20Systems-C03939?style=flat-square)">
-&#x20; \<img src="[https://img.shields.io/badge/Platform-STM32-333333?style=flat-square](https://img.shields.io/badge/Platform-STM32-333333?style=flat-square)">
-&#x20; \<img src="[https://img.shields.io/badge/Location-Karnataka%2C%20India-333333?style=flat-square](https://img.shields.io/badge/Location-Karnataka%2C%20India-333333?style=flat-square)">
-\</p>
-
----
 
 ## Technical Skills
 
