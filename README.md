@@ -85,9 +85,14 @@
 
 > [!TIP]
 > **Emertxe Certified Embedded Professional** — *Emertxe Information Technologies*  
-> 🏆 **Honors:** Awarded the **Student Spot Award (2x)** for consistent technical excellence in C programming and embedded systems coursework.  
-> **Focus Areas:** `Embedded C` • `Pointers & Memory Architecture` • `Data Structures` • `Microcontroller Peripherals`
-<br/>
+> 🏆 **Honors:** Student Spot Award (2x)
+>
+> <br/>
+>
+> - **Industrial Applications of IoT** — *Mechatronics Dept. & ISTE MITE*
+> - **Smart IoT Automation** — *Mechatronics Dept. & IEEE*
+> - **Fundamentals of Robotics & Industrial Automation** — *L&T EduTech (Coursera)*
+> - **Certified SolidWorks Associate (CSWA)** — *Dassault Systèmes*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:1E3A5F,100:03234B&height=110&section=footer&animation=twinkling" width="100%" />
