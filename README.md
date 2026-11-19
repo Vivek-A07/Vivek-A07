@@ -8,27 +8,21 @@
 
 ## About Me
 
-> **Mechatronics Engineering** graduate specializing in **Embedded Systems** and low-level **Firmware Development**.
+> [!NOTE]
+> I am a Mechatronics Engineering graduate with a strong interest in Embedded Systems and Firmware Development. I am currently undergoing Embedded Systems training at Emertxe, strengthening my foundation in C programming and Data Structures.
+>
+> In parallel, I am actively developing my skills in embedded systems by studying microcontroller concepts and implementing them through hands-on firmware projects.
+>
+> I am seeking opportunities in Embedded Systems or Firmware Development where I can apply my knowledge and contribute to real-world products.
 
-<details open>
-<summary><b>01. Background & Embedded Training</b></summary>
-<br/>
-
-Currently undergoing intensive Embedded Systems training at **Emertxe** *(2x Student Spot Award recipient)*, building a deep foundation in **C Programming**, **Data Structures**, and low-level memory management.
-
-</details>
-
-<details>
-<summary><b>02. Hardware Focus & Career Objective</b></summary>
-<br/>
-
-Actively developing and debugging bare-metal and HAL microcontroller firmware on **STM32 (Blue Pill)** using **STM32CubeIDE**, seeking entry-level **Embedded Systems** or **Firmware Development** roles to contribute to real-world hardware products.
-
-</details>
-
-<br/>
-
-**Focus:** `Embedded Systems` • `Firmware Development` &nbsp;|&nbsp; **Platform:** `STM32` • `C Programming` • `STM32CubeIDE`
+<p>
+  <img src="https://img.shields.io/badge/Focus-Embedded_Systems-00599C?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Focus-Firmware_Development-1E90FF?style=for-the-badge" height="30" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Platform-STM32-FF6B00?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Platform-C_Programming-FF6B00?style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Platform-STM32CubeIDE-FF6B00?style=for-the-badge" height="30" />
+</p>
 
 ## Technical Skills
 
