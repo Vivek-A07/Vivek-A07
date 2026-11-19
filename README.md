@@ -84,11 +84,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=999999&color=FF6B00&vCenter=true&width=480&height=35&lines=04.+%2F%2F+Certifications+%26+Awards" alt="Certifications & Awards" />
 
 > [!TIP]
-> - **[Emertxe Certified Embedded Professional ↗](https://your-emertxe-certificate-link)** — *Emertxe Information Technologies* (`Student Spot Award (2x)`)
-> - **[Industrial Applications of IoT ↗](https://your-iot-certificate-link)** — *Mechatronics Dept. & ISTE MITE*
-> - **[Smart IoT Automation ↗](https://your-ieee-certificate-link)** — *Mechatronics Dept. & IEEE*
-> - **[Fundamentals of Robotics & Industrial Automation ↗](https://your-coursera-certificate-link)** — *L&T EduTech (Coursera)*
-> - **[Certified SolidWorks Associate (CSWA) ↗](https://your-solidworks-certificate-link)** — *Dassault Systèmes*
+> - **Emertxe Certified Embedded Professional** — *Emertxe Information Technologies* (`Student Spot Award (2x)`) &nbsp;|&nbsp; [**`View Certificate ↗`**](https://your-emertxe-certificate-link)
+> - **Industrial Applications of IoT** — *Mechatronics Dept. & ISTE MITE* &nbsp;|&nbsp; [**`View Certificate ↗`**](https://your-iot-certificate-link)
+> - **Smart IoT Automation** — *Mechatronics Dept. & IEEE* &nbsp;|&nbsp; [**`View Certificate ↗`**](https://your-ieee-certificate-link)
+> - **Fundamentals of Robotics & Industrial Automation** — *L&T EduTech (Coursera)* &nbsp;|&nbsp; [**`View Certificate ↗`**](https://your-coursera-certificate-link)
+> - **Certified SolidWorks Associate (CSWA)** — *Dassault Systèmes* &nbsp;|&nbsp; [**`View Certificate ↗`**](https://your-solidworks-certificate-link)
 
 
 
