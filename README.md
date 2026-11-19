@@ -43,6 +43,8 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 - **IDEs & Simulation:** ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![PicSimLab](https://img.shields.io/badge/PicSimLab-333333?style=flat-square) ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
+---
+
 ## Featured Projects
 
 Projects focused on microcontroller programming, peripheral interfacing, and embedded firmware development.
