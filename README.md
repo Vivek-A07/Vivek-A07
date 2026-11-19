@@ -35,26 +35,14 @@ I am seeking opportunities in Embedded Systems or Firmware Development where I c
 
 ## Technical Skills
 
-## Technical Skills
-
-### 🟠 Programming
-`Embedded C` `C`
-
-### 🟠 Microcontrollers
-`STM32` `Arduino` `ESP32`
-
-### 🟠 Communication Protocols
-`UART` `SPI` `I2C`
-
-### 🟠 Peripherals
-`GPIO` `ADC` `Timers` `PWM` `Interrupts`
-
-### 🟠 Development Tools
-`STM32CubeIDE` `Git` `Linux`
-
-### 🟠 Simulation
-`PICSimLab`
-
+| AREA | TECHNOLOGIES |
+|:---|:---|
+| **01 · Programming** | ![Embedded C](https://img.shields.io/badge/Embedded_C-252B33?style=flat-square) ![C](https://img.shields.io/badge/C-252B33?style=flat-square) |
+| **02 · Microcontrollers** | ![STM32](https://img.shields.io/badge/STM32-E58A36?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-252B33?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32-252B33?style=flat-square) |
+| **03 · Communication** | ![UART](https://img.shields.io/badge/UART-252B33?style=flat-square) ![SPI](https://img.shields.io/badge/SPI-252B33?style=flat-square) ![I2C](https://img.shields.io/badge/I2C-252B33?style=flat-square) |
+| **04 · Peripherals** | ![GPIO](https://img.shields.io/badge/GPIO-252B33?style=flat-square) ![ADC](https://img.shields.io/badge/ADC-252B33?style=flat-square) ![Timers](https://img.shields.io/badge/Timers-252B33?style=flat-square) ![PWM](https://img.shields.io/badge/PWM-252B33?style=flat-square) ![Interrupts](https://img.shields.io/badge/Interrupts-252B33?style=flat-square) |
+| **05 · Development Tools** | ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-252B33?style=flat-square) ![Git](https://img.shields.io/badge/Git-252B33?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-252B33?style=flat-square) |
+| **06 · Simulation** | ![PICSimLab](https://img.shields.io/badge/PICSimLab-252B33?style=flat-square) |
 ## Featured Projects
 
 Projects focused on microcontroller programming, peripheral interfacing, and embedded firmware development.
