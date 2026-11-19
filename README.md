@@ -1,7 +1,6 @@
 # Vivek
 <p align="right"><b>📍 Karnataka, India</b></p>
 
-
 *Embedded Software Engineer*
 
 <div align="center">
