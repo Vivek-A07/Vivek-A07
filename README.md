@@ -1,14 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=550&height=50&lines=Hi%2C+I'm+Vivek.;Embedded+Software+Engineer." alt="Vivek" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:1E3A5F,100:FF6B00&height=180&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
 
-**Karnataka, India** &nbsp;•&nbsp; `Microcontrollers & Peripheral Drivers` &nbsp;•&nbsp; `STM32 Firmware`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C,50:FF6B00,100:00599C&height=2" width="75%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&height=35&lines=Microcontrollers+%26+Peripheral+Drivers;STM32+Firmware+Development;Bare-Metal+Embedded+C+Programming" alt="Typing SVG" />
 
 </div>
 
