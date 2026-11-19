@@ -17,22 +17,23 @@
 
 ## Technical Skills
 
-- ### **Languages & Core:** &nbsp; <img src="https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/Embedded_C-1E90FF?style=for-the-badge" height="35" />
-- ### **Microcontrollers:** &nbsp; <img src="https://img.shields.io/badge/STM32_Blue_Pill-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" height="35" />
-- ### **Peripherals & Buses:** &nbsp; <img src="https://img.shields.io/badge/GPIO-FF6B00?style=for-the-badge" height="35" /> <img src="https://img.shields.io/badge/ADC-FF6B00?style=for-the-badge" height="35" /> <img src="https://img.shields.io/badge/PWM-FF6B00?style=for-the-badge" height="35" /> <img src="https://img.shields.io/badge/Timers-FF6B00?style=for-the-badge" height="35" /> <img src="https://img.shields.io/badge/UART-FF6B00?style=for-the-badge" height="35" />
-- ### **IDEs & Simulation:** &nbsp; <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/PicSimLab-333333?style=for-the-badge" height="35" />  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" />
+> **Languages & Core**  
+> `C Programming` • `Embedded C` • `Pointers & Memory Management` • `Bitwise Operations` • `Data Structures`
 
-</div>
+<br/>
 
+> **Microcontrollers & Architecture**  
+> `STM32F103 (Blue Pill)` • `ARM Cortex-M3` • `Arduino` • `HAL & CMSIS`
 
-<div align="left">
+<br/>
 
-<div align="left">
+> **Peripherals & Communication**  
+> `GPIO` • `12-Bit ADC` • `Timers` • `PWM` • `UART`
 
-<div align="left">
+<br/>
 
-<div align="left">
-
+> **IDEs, Simulators & Tooling**  
+> `STM32CubeIDE` • `PicSimLab` • `GCC` • `VS Code` • `Git & GitHub`
 ## Featured Projects
 
 > ### **1. STM32 Microcontroller Firmware Suite**
