@@ -93,7 +93,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=999999&color=38BDF8&vCenter=true&width=440&height=35&lines=05.+%2F%2F+Connect+%26+Profiles" alt="Connect & Profiles" />
 
 > **Open to Embedded Systems & Firmware Engineering Roles**  
-> [**`LinkedIn ↗`**](https://www.linkedin.com/in/vivek-acharya/) &nbsp;•&nbsp; [**`Email ↗`**](mailto:vivekacharya299@gmail.com) &nbsp;•&nbsp; [**`Download Resume ↗`**](./Vivek_Embedded_Resume.pdf) &nbsp;•&nbsp; [**`GitHub Repositories ↗`**](https://github.com/Vivek-A07?tab=repositories)
+> [**`LinkedIn ↗`**](https://www.linkedin.com/in/vivek-acharya/) &nbsp;•&nbsp; [**`Email ↗`**](mailto:vivekacharya299@gmail.com) &nbsp;•&nbsp; [**`Download Resume ↗`**](https://drive.google.com/file/d/1ecMUQ-Klnn9_ExCuWkfg28hPpmSttClU/view?usp=drive_link) &nbsp;•&nbsp; [**`GitHub Repositories ↗`**](https://github.com/Vivek-A07?tab=repositories)
 
 <br/>
 
