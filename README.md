@@ -16,7 +16,7 @@
 > I am seeking opportunities in Embedded Systems or Firmware Development where I can apply my knowledge and contribute to real-world products.
 
 ## Technical Skills
-
+> [!NOTE]
 > **Languages & Core**  
 > `C Programming` • `Embedded C` • `Pointers & Memory Management` • `Bitwise Operations` • `Data Structures`
 
