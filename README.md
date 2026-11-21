@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=999999&color=38BDF8&vCenter=true&width=320&height=35&lines=01.+%2F%2F+About+Me" alt="About Me" />
 
 > [!NOTE]
-> $\color{#9198a1}{\text{I am a Mechatronics Engineering graduate with a strong interest in Embedded Systems and Firmware Development.}}$ $\color{#9198a1}{\text{I am currently undergoing Embedded Systems training at Emertxe, strengthening my foundation in C programming and Data Structures.}}$
+> $\color{#9198a1}{\text{I am a Mechatronics Engineering graduate with a strong interest in Embedded Systems and Firmware Development.I am currently undergoing Embedded Systems training at Emertxe, strengthening my foundation in C programming and Data Structures.}}$
 >
 > $\color{#9198a1}{\text{In parallel, I am actively developing my skills in embedded systems by studying microcontroller concepts}}$ $\color{#9198a1}{\text{and implementing them through hands-on firmware projects.}}$
 >
