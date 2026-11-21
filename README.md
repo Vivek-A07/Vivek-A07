@@ -61,16 +61,6 @@
 
 > ### **2. AI-Powered Autonomous Campus Waste Management System**
 > **Repository:** [`Vivek-A07/AI-Campus-Waste-Management-System`](https://github.com/Vivek-A07/AI-Campus-Waste-Management-System) &nbsp;|&nbsp; **Stack:** `Arduino Mega` • `YOLOv8` • `Flutter` • `IoT`
->
-> <details>
-> <summary title="1. Arduino Mega Hardware Control&#10;2. YOLOv8 Waste Classification&#10;3. Flutter Mobile Dashboard&#10;4. IoT Telemetry Integration"><b>View System Architecture</b></summary>
-> <br/>
->
-> - **Arduino Mega:** Autonomous bin actuation & sensor interfacing
-> - **YOLOv8:** Real-time computer vision waste detection & sorting
-> - **Flutter & IoT:** Live fill-level monitoring & campus alerts
->
-> </details>
 
 <br/>
 
