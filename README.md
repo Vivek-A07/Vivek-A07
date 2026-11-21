@@ -82,10 +82,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=999999&color=FF6B00&vCenter=true&width=480&height=35&lines=04.+%2F%2F+Certifications+%26+Awards" alt="Certifications & Awards" />
 
 > [!TIP]
-> - **Emertxe Certified Embedded Professional** — *Emertxe Information Technologies* (`Student Spot Award (2x)`) &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/drive/folders/1iTc4nyr9kFJOLVmo8b4UXKoQ566uVbRJ?usp=sharing)
-> - **Smart IoT Automation** — *Mechatronics Dept. & IEEE* &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1lpfzMoGDtIRDWjkTe8csH3Aq7fgz_YLO/view?usp=sharing)
-> - **Fundamentals of Robotics & Industrial Automation** — *L&T EduTech (Coursera)* &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1YYcyduGsYnQKvhTgL0dpUwtGcavOrnc7/view?usp=sharing)
-> - **Certified SolidWorks Associate (CSWA)** — *Dassault Systèmes* &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1Qvf1psWXJ9AJMV2HoDi_JTDy3DhnjQuK/view?usp=sharing)
+> - Emertxe Certified Embedded Professional — Emertxe Information Technologies (`Student Spot Award (2x)`) &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/drive/folders/1iTc4nyr9kFJOLVmo8b4UXKoQ566uVbRJ?usp=sharing)
+> - Smart IoT Automation — Mechatronics Dept. & IEEE &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1lpfzMoGDtIRDWjkTe8csH3Aq7fgz_YLO/view?usp=sharing)
+> - Fundamentals of Robotics & Industrial Automation — L&T EduTech (Coursera) &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1YYcyduGsYnQKvhTgL0dpUwtGcavOrnc7/view?usp=sharing)
+> - Certified SolidWorks Associate (CSWA) — Dassault Systèmes &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1Qvf1psWXJ9AJMV2HoDi_JTDy3DhnjQuK/view?usp=sharing)
 
 <br/>
 
