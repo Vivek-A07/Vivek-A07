@@ -47,9 +47,7 @@
 > **Repository:** [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; **Stack:** `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
 >
 > <details>
-> <summary title="▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰&#10;  STM32F103 FIRMWARE SUITE (4 MODULES)&#10;▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰&#10;&#10;  ├── [01] Temperature-Monitoring-System&#10;  │         └─ 12-Bit ADC • UART Telemetry&#10;  │&#10;  ├── [02] PWM-LED-Brightness-Control&#10;  │         └─ TIM PWM • Edge-Detected Debounce&#10;  │&#10;  ├── [03] Multi-Mode-LED-Controller&#10;  │         └─ GPIO • HAL_GetTick() State Machine&#10;  │&#10;  └── [04] Binary-Counter-Display&#10;            └─ Bitwise Port Manipulation&#10;&#10;  [ Click button to open repository links ]">
->   <img src="https://img.shields.io/badge/▶_View_Firmware_Projects-0F172A?style=for-the-badge&logo=stmicroelectronics&logoColor=38BDF8" alt="View Firmware Projects" />
-> </summary>
+> <summary title="1. Temperature-Monitoring-System&#10;2. PWM-LED-Brightness-Control&#10;3. Multi-Mode-LED-Controller&#10;4. Binary-Counter-Display"><b>View Firmware Projects</b></summary>
 > <br/>
 >
 > - **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System)**
