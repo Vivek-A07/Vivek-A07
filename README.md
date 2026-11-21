@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03152E,50:0D2847,100:FF6B00&height=155&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=17&descAlignY=72&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=38BDF8&background=061222&center=true&vCenter=true&width=760&height=36&lines=%E2%96%88+MCU%3A+STM32F103C8T6+(ARM+Cortex-M3)+%7C+SYSCLK%3A+72MHz+%7C+FLASH%3A+64KB;%E2%96%88+BUS%3A+UART+115200bps+%7C+12-Bit+ADC+%7C+TIM2+PWM+%7C+GPIOA-%3EODR;%E2%96%88+CORE%3A+Bare-Metal+Embedded+C+%7C+HAL+%26+CMSIS+%7C+PicSimLab+HIL" alt="MCU Hardware Status" />
-
-<br/>
+<img src="https://svg-banners.vercel.app/api?type=origin&text1=Vivek&text2=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&width=1000&height=200" width="100%" alt="Vivek Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=640&height=35&lines=%2F%2F+Microcontrollers+%26+Peripheral+Drivers;%2F%2F+STM32+Firmware+Development;%2F%2F+Bare-Metal+Embedded+C+Programming;%2F%2F+ARM+Cortex-M3+Firmware+Engineer;%2F%2F+Embedded+C+%26+Systems+Developer;%2F%2F+Mechatronics+%26+IoT+Engineer" alt="Typing SVG" />
 
