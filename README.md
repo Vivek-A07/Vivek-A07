@@ -81,11 +81,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=999999&color=FF6B00&vCenter=true&width=480&height=35&lines=04.+%2F%2F+Certifications+%26+Awards" alt="Certifications & Awards" />
 
+
+
 > [!TIP]
-> - $\color{#9198a1}{\textsf{Emertxe Certified Embedded Professional — Emertxe Information Technologies}}$ (<kbd>$\color{#9198a1}{\texttt{Student Spot Award (2x)}}$</kbd>) &nbsp;|&nbsp; <a href="https://drive.google.com/drive/folders/1iTc4nyr9kFJOLVmo8b4UXKoQ566uVbRJ?usp=sharing" title="Click to open Emertxe Embedded Systems & 2x Student Spot Award Certificates (Google Drive)"><b><code>View Certificate ↗</code></b></a>
-> - $\color{#9198a1}{\textsf{Smart IoT Automation — Mechatronics Dept. \char38\ IEEE}}$ &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/1lpfzMoGDtIRDWjkTe8csH3Aq7fgz_YLO/view?usp=sharing" title="Click to view Smart IoT Automation Certificate — IEEE & Mechatronics Dept."><b><code>View Certificate ↗</code></b></a>
-> - $\color{#9198a1}{\textsf{Fundamentals of Robotics \char38\ Industrial Automation — L\char38 T EduTech (Coursera)}}$ &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/1YYcyduGsYnQKvhTgL0dpUwtGcavOrnc7/view?usp=sharing" title="Click to view L&T EduTech Robotics & Industrial Automation Certificate"><b><code>View Certificate ↗</code></b></a>
-> - $\color{#9198a1}{\textsf{Certified SolidWorks Associate (CSWA) — Dassault Systèmes}}$ &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/1Qvf1psWXJ9AJMV2HoDi_JTDy3DhnjQuK/view?usp=sharing" title="Click to view Dassault Systèmes CSWA Certificate"><b><code>View Certificate ↗</code></b></a>
+> - $\color{#9198a1}{\textsf{Emertxe Certified Embedded Professional — Emertxe Information Technologies}}$ (<kbd>$\color{#9198a1}{\texttt{Student Spot Award (2x)}}$</kbd>) &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/drive/folders/1iTc4nyr9kFJOLVmo8b4UXKoQ566uVbRJ?usp=sharing)
+> - $\color{#9198a1}{\textsf{Smart IoT Automation — Mechatronics Dept. \char38\ IEEE}}$ &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1lpfzMoGDtIRDWjkTe8csH3Aq7fgz_YLO/view?usp=sharing)
+> - $\color{#9198a1}{\textsf{Fundamentals of Robotics \char38\ Industrial Automation — L\char38 T EduTech (Coursera)}}$ &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1YYcyduGsYnQKvhTgL0dpUwtGcavOrnc7/view?usp=sharing)
+> - $\color{#9198a1}{\textsf{Certified SolidWorks Associate (CSWA) — Dassault Systèmes}}$ &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1Qvf1psWXJ9AJMV2HoDi_JTDy3DhnjQuK/view?usp=sharing)
+>
+> <details>
+> <summary><b>Preview Certificate Snapshots</b></summary>
+> <br/>
+> <img src="./assets/emertxe-award.png" width="220" alt="Emertxe Award" />
+> <img src="./assets/ieee-iot.png" width="220" alt="Smart IoT Automation" />
+> <img src="./assets/lt-robotics.png" width="220" alt="L&T Robotics" />
+> <img src="./assets/cswa.png" width="220" alt="CSWA" />
+> </details>
 <br/>
 
 
