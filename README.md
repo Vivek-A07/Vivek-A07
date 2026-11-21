@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03234B,50:1E3A5F,100:FF6B00&height=185&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:03152E,50:0F294A,100:FF6B00&height=175&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=36&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=17&descAlignY=60&animation=blinking" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=640&height=35&lines=%2F%2F+Embedded+C+Developer;%2F%2F+STM32+Firmware+Development;%2F%2F+Microcontroller+Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=38BDF8&background=071324&center=true&vCenter=true&width=720&height=34&lines=%5BSYSCLK%3A+72MHz%5D+ARM+Cortex-M3+%7C+STM32F103+%7C+UART%3A+115200+baud;%5B0x4001080C%5D+GPIOA-%3EODR+%5E%3D+(1U+%3C%3C+5)%3B+%2F%2F+Bare-Metal+Register+Access;%5BFIRMWARE%5D+HAL+%26+CMSIS+%7C+12-Bit+ADC+%7C+TIM+PWM+%7C+Non-Blocking+FSM" alt="Embedded Telemetry" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=640&height=35&lines=%2F%2F+Microcontrollers+%26+Peripheral+Drivers;%2F%2F+STM32+Firmware+Development;%2F%2F+Bare-Metal+Embedded+C+Programming;%2F%2F+ARM+Cortex-M3+Firmware+Engineer;%2F%2F+Embedded+C+%26+Systems+Developer;%2F%2F+Mechatronics+%26+IoT+Engineer" alt="Typing SVG" />
 
 </div>
 
