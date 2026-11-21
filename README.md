@@ -47,13 +47,17 @@
 > **Repository:** [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; **Stack:** `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
 >
 > <details>
-> <summary title="1. Temperature-Monitoring-System&#10;2. PWM-LED-Brightness-Control&#10;3. Multi-Mode-LED-Controller&#10;4. Binary-Counter-Display"><b>View Firmware Projects</b></summary>
+> <summary title="┌─ STM32F103 FIRMWARE MODULES ──────────┐&#10;│  ⚡ Temperature-Monitoring-System     │&#10;│  ⚡ PWM-LED-Brightness-Control        │&#10;│  ⚡ Multi-Mode-LED-Controller         │&#10;│  ⚡ Binary-Counter-Display            │&#10;└───────────────────────────────────────┘">
+>   <img src="https://img.shields.io/badge/▶_View_Firmware_Projects-1E293B?style=for-the-badge&logo=stmicroelectronics&logoColor=38BDF8" alt="View Firmware Projects" />
+> </summary>
 > <br/>
 >
-> - **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System)**
-> - **[PWM-LED-Brightness-Control](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/PWM-LED-Brightness-Control)**
-> - **[Multi-Mode-LED-Controller](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Multi-Mode-LED-Controller)**
-> - **[Binary-Counter-Display](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Binary-Counter-Display)**
+> | Firmware Module | Key Peripherals & Concepts |
+> | :--- | :--- |
+> | **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System)** | `12-Bit ADC` • `UART` • Sensor Calibration |
+> | **[PWM-LED-Brightness-Control](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/PWM-LED-Brightness-Control)** | `Timers (TIM)` • `PWM Duty Cycle` • Edge-Detected Debouncing |
+> | **[Multi-Mode-LED-Controller](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Multi-Mode-LED-Controller)** | `GPIO` • `HAL_GetTick()` Non-Blocking State Machine |
+> | **[Binary-Counter-Display](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Binary-Counter-Display)** | `Bitwise Operations` • Port Manipulation |
 >
 > </details>
 
