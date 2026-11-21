@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:03152E,50:0F294A,100:FF6B00&height=175&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=36&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=17&descAlignY=60&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03152E,50:0D2847,100:FF6B00&height=155&section=header&text=Vivek&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=Embedded%20Software%20Engineer%20%7C%20Karnataka%2C%20India&descSize=17&descAlignY=72&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=38BDF8&background=071324&center=true&vCenter=true&width=720&height=34&lines=%5BSYSCLK%3A+72MHz%5D+ARM+Cortex-M3+%7C+STM32F103+%7C+UART%3A+115200+baud;%5B0x4001080C%5D+GPIOA-%3EODR+%5E%3D+(1U+%3C%3C+5)%3B+%2F%2F+Bare-Metal+Register+Access;%5BFIRMWARE%5D+HAL+%26+CMSIS+%7C+12-Bit+ADC+%7C+TIM+PWM+%7C+Non-Blocking+FSM" alt="Embedded Telemetry" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=600&color=38BDF8&background=061222&center=true&vCenter=true&width=760&height=36&lines=%E2%96%88+MCU%3A+STM32F103C8T6+(ARM+Cortex-M3)+%7C+SYSCLK%3A+72MHz+%7C+FLASH%3A+64KB;%E2%96%88+BUS%3A+UART+115200bps+%7C+12-Bit+ADC+%7C+TIM2+PWM+%7C+GPIOA-%3EODR;%E2%96%88+CORE%3A+Bare-Metal+Embedded+C+%7C+HAL+%26+CMSIS+%7C+PicSimLab+HIL" alt="MCU Hardware Status" />
 
 <br/>
 
