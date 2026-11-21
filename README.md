@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Image/gemini-svg (2).svg" width="100%" alt="Vivek - Embedded Software Engineer" />
+<img src="./Image/gemini-svg (3).svg" width="100%" alt="Vivek - Embedded Software Engineer" />
 
 <br/>
 
