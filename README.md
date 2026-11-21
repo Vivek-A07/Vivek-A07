@@ -23,17 +23,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=999999&color=FF6B00&vCenter=true&width=380&height=35&lines=02.+%2F%2F+Technical+Skills" alt="Technical Skills" />
 
 > **Languages & Core**  
-> <span style="color:white">`C Programming` • `Embedded C` • `Pointers & Memory Management` • `Bitwise Operations` • `Data Structures`</span>
+> <span style="color:white">`C Programming` • `Embedded C` • `Data Structures` • `Bitwise Operations` • `Pointers & Memory Management`</span>
 
 <br/>
 
 > **Microcontrollers & Architecture**  
-> <span style="color:white">`STM32F103 (Blue Pill)` • `ARM Cortex-M3` • `Arduino` • `HAL & CMSIS`</span>
+> <span style="color:white">`STM32` • `ARM Cortex` • `Arduino` • `HAL`</span>
 
 <br/>
 
 > **Peripherals & Communication**  
-> <span style="color:white">`GPIO` • `12-Bit ADC` • `Timers` • `PWM` • `UART`</span>
+> <span style="color:white">`GPIO` • `ADC` • `Timers` • `PWM` • `UART`</span>
 <br/>
 
 > **IDEs, Simulators & Tooling**  
