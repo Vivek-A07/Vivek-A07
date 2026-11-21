@@ -47,17 +47,15 @@
 > **Repository:** [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; **Stack:** `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
 >
 > <details>
-> <summary title="┌─ STM32F103 FIRMWARE MODULES ──────────┐&#10;│  ⚡ Temperature-Monitoring-System     │&#10;│  ⚡ PWM-LED-Brightness-Control        │&#10;│  ⚡ Multi-Mode-LED-Controller         │&#10;│  ⚡ Binary-Counter-Display            │&#10;└───────────────────────────────────────┘">
->   <img src="https://img.shields.io/badge/▶_View_Firmware_Projects-1E293B?style=for-the-badge&logo=stmicroelectronics&logoColor=38BDF8" alt="View Firmware Projects" />
+> <summary title="▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰&#10;  STM32F103 FIRMWARE SUITE (4 MODULES)&#10;▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰&#10;&#10;  ├── [01] Temperature-Monitoring-System&#10;  │         └─ 12-Bit ADC • UART Telemetry&#10;  │&#10;  ├── [02] PWM-LED-Brightness-Control&#10;  │         └─ TIM PWM • Edge-Detected Debounce&#10;  │&#10;  ├── [03] Multi-Mode-LED-Controller&#10;  │         └─ GPIO • HAL_GetTick() State Machine&#10;  │&#10;  └── [04] Binary-Counter-Display&#10;            └─ Bitwise Port Manipulation&#10;&#10;  [ Click button to open repository links ]">
+>   <img src="https://img.shields.io/badge/▶_View_Firmware_Projects-0F172A?style=for-the-badge&logo=stmicroelectronics&logoColor=38BDF8" alt="View Firmware Projects" />
 > </summary>
 > <br/>
 >
-> | Firmware Module | Key Peripherals & Concepts |
-> | :--- | :--- |
-> | **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System)** | `12-Bit ADC` • `UART` • Sensor Calibration |
-> | **[PWM-LED-Brightness-Control](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/PWM-LED-Brightness-Control)** | `Timers (TIM)` • `PWM Duty Cycle` • Edge-Detected Debouncing |
-> | **[Multi-Mode-LED-Controller](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Multi-Mode-LED-Controller)** | `GPIO` • `HAL_GetTick()` Non-Blocking State Machine |
-> | **[Binary-Counter-Display](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Binary-Counter-Display)** | `Bitwise Operations` • Port Manipulation |
+> - **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System)**
+> - **[PWM-LED-Brightness-Control](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/PWM-LED-Brightness-Control)**
+> - **[Multi-Mode-LED-Controller](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Multi-Mode-LED-Controller)**
+> - **[Binary-Counter-Display](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Binary-Counter-Display)**
 >
 > </details>
 
