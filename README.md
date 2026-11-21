@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=640&height=35&lines=%2F%2F+Microcontrollers+%26+Peripheral+Drivers;%2F%2F+STM32+Firmware+Development;%2F%2F+Bare-Metal+Embedded+C+Programming;%2F%2F+ARM+Cortex-M3+Firmware+Engineer;%2F%2F+Embedded+C+%26+Systems+Developer;%2F%2F+Mechatronics+%26+IoT+Engineer" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=FF6B00&center=true&vCenter=true&width=640&height=35&lines=%2F%2F+Microcontrollers+%26+Peripheral+Drivers;%2F%2F+STM32+Firmware+Development;%2F%2F+Bare-Metal+Embedded+C+Programming;%2F%2F+ARM+Cortex-M3+Firmware+Engineer;%2F%2F+Embedded+C+%26+Systems+Developer;%2F%2F+Mechatronics+%26+IoT+Engineer" alt="Typing SVG" /> -->
 
 </div>
 
