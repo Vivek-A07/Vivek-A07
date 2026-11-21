@@ -83,10 +83,13 @@
 
 > [!TIP]
 > - $\color{#9198a1}{\text{Emertxe Certified Embedded Professional — Emertxe Information Technologies}}$ (`Student Spot Award (2x)`) &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/drive/folders/1iTc4nyr9kFJOLVmo8b4UXKoQ566uVbRJ?usp=sharing)
-> - $\color{#9198a1}{\text{Smart IoT Automation — Mechatronics Dept. \& IEEE}}$ &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1lpfzMoGDtIRDWjkTe8csH3Aq7fgz_YLO/view?usp=sharing)
-> - $\color{#9198a1}{\text{Fundamentals of Robotics \& Industrial Automation — L\&T EduTech (Coursera)}}$ &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1YYcyduGsYnQKvhTgL0dpUwtGcavOrnc7/view?usp=sharing)
+> - $\color{#9198a1}{\text{Smart IoT Automation — Mechatronics Dept.}}$ $\color{#9198a1}{\text{\&}}$ $\color{#9198a1}{\text{IEEE}}$ &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1lpfzMoGDtIRDWjkTe8csH3Aq7fgz_YLO/view?usp=sharing)
+> - $\color{#9198a1}{\text{Fundamentals of Robotics}}$ $\color{#9198a1}{\text{\&}}$ $\color{#9198a1}{\text{Industrial Automation — L}}$$\color{#9198a1}{\text{\&}}$$\color{#9198a1}{\text{T EduTech (Coursera)}}$ &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1YYcyduGsYnQKvhTgL0dpUwtGcavOrnc7/view?usp=sharing)
 > - $\color{#9198a1}{\text{Certified SolidWorks Associate (CSWA) — Dassault Systèmes}}$ &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1Qvf1psWXJ9AJMV2HoDi_JTDy3DhnjQuK/view?usp=sharing)
 <br/>
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=999999&color=38BDF8&vCenter=true&width=440&height=35&lines=05.+%2F%2F+Connect+%26+Profiles" alt="Connect & Profiles" />
 
 > **Open to Embedded Systems & Firmware Engineering Roles**  
