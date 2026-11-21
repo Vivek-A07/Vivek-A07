@@ -89,6 +89,8 @@
 > - **Fundamentals of Robotics & Industrial Automation — L&T EduTech (Coursera)** &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1YYcyduGsYnQKvhTgL0dpUwtGcavOrnc7/view?usp=sharing)
 > - **Certified SolidWorks Associate (CSWA) — Dassault Systèmes** &nbsp;|&nbsp; [**`View Certificate ↗`**](https://drive.google.com/file/d/1Qvf1psWXJ9AJMV2HoDi_JTDy3DhnjQuK/view?usp=sharing)
 
+<br/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=999999&color=38BDF8&vCenter=true&width=440&height=35&lines=05.+%2F%2F+Connect+%26+Profiles" alt="Connect & Profiles" />
 
