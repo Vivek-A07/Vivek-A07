@@ -47,7 +47,7 @@
 > **Repository:** [`Vivek-A07/Microcontroller-Projects`](https://github.com/Vivek-A07/Microcontroller-Projects) &nbsp;|&nbsp; **Stack:** `STM32F103 (Blue Pill)` • `Embedded C` • `HAL / CMSIS` • `PicSimLab`
 >
 > <details>
-> <summary><b>View Firmware Projects</b></summary>
+> <summary title="1. Temperature-Monitoring-System&#10;2. PWM-LED-Brightness-Control&#10;3. Multi-Mode-LED-Controller&#10;4. Binary-Counter-Display"><b>View Firmware Projects</b></summary>
 > <br/>
 >
 > - **[Temperature-Monitoring-System](https://github.com/Vivek-A07/Microcontroller-Projects/tree/main/Temperature-Monitoring-System)**
