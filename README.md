@@ -61,7 +61,7 @@
 
 <br/>
 
-> ### **2. AI-Powered Autonomous Campus Waste Management System**
+> ### **2. Design and Testing of an AI-based Campus Waste Management System**
 > **Repository:** [`Vivek-A07/AI-Campus-Waste-Management-System`](https://github.com/Vivek-A07/AI-Campus-Waste-Management-System) &nbsp;|&nbsp; **Stack:** `Arduino Mega` • `YOLOv8` • `Flutter` • `IoT`
 
 <br/>
